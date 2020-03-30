@@ -1,9 +1,9 @@
 import requests
 import json
 
-CONFIG_FILE_PATH = "/home/kevin/p/corona-bot/config.json"
-COUNTRIES_FILE_PATH = "/home/kevin/p/corona-bot/src/Tracker/contries.json"
-TRACK_FILE_PATH = "/home/kevin/p/corona-bot/src/Tracker/track.json"
+CONFIG_FILE_PATH = "/path/config.json"
+COUNTRIES_FILE_PATH = "/path/contries.json"
+TRACK_FILE_PATH = "/path/track.json"
 
 with open(CONFIG_FILE_PATH) as config_file:
     config = json.load(config_file)
