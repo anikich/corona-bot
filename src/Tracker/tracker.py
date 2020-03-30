@@ -18,6 +18,30 @@ TRACK_COUNTRIES = TRACKER_API + "countries"
 track_countries_response = requests.get(TRACK_COUNTRIES)
 COUNTRIES = track_countries_response.json()
 
+
+countries_json = {}
+
+for country_num in range(len(COUNTRIES)):
+    country_name = COUNTRIES[country_num]['country']
+    countries_json[country_name] = []
+    countries_json[country_name].append(
+        {
+            "position": country_num,
+            "active": COUNTRIES[country_num]["active"],
+            "cases": COUNTRIES[country_num]["cases"],
+            "casesPerOneMillion": COUNTRIES[country_num]["casesPerOneMillion"],
+            "critical": COUNTRIES[country_num]["critical"],
+            "deaths": COUNTRIES[country_num]["deaths"],
+            "deathsPerOneMillion": COUNTRIES[country_num]["deathsPerOneMillion"],
+            "firstCase": COUNTRIES[country_num]["firstCase"],
+            "recovered": COUNTRIES[country_num]["recovered"],
+            "todayCases": COUNTRIES[country_num]["todayCases"],
+            "todayDeaths": COUNTRIES[country_num]["todayDeaths"]
+        }
+    )
+
+COUNTRIES_BY_NAME = countries_json
+
 TRACK = {
     "all": ALL,
     "top-countries": {
@@ -27,19 +51,8 @@ TRACK = {
         3: COUNTRIES[3],
         4: COUNTRIES[4]
     },
-    "countries": COUNTRIES
+    "countries": COUNTRIES_BY_NAME
 }
 
-JSON_COUNTRIES_TEXT = """{
-
-"""
-for country_num in range(len(COUNTRIES)):
-    JSON_COUNTRIES_TEXT += f"  \"{COUNTRIES[country_num]['country']}\": {country_num},\n"
-JSON_COUNTRIES_TEXT += "  \"END\":null\n}"
-
 with open(TRACK_FILE_PATH, "w") as track_file:
-    track = json.dump(TRACK, track_file)
-
-countries_file = open(COUNTRIES_FILE_PATH, "w")
-countries_file.write(JSON_COUNTRIES_TEXT)
-countries_file.close()
+    track = json.dump(TRACK, track_file, sort_keys=True, indent=2)
