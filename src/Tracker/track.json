@@ -1,1 +1,3091 @@
-{"all": {"cases": 735005, "deaths": 34804, "recovered": 156122}, "top-countries": {"0": {"country": "USA", "cases": 142746, "todayCases": 286, "deaths": 2489, "todayDeaths": 5, "recovered": 4562, "active": 135695, "critical": 2970, "casesPerOneMillion": 431, "deathsPerOneMillion": 8, "firstCase": "\nJan 20 "}, "1": {"country": "Italy", "cases": 97689, "todayCases": 0, "deaths": 10779, "todayDeaths": 0, "recovered": 13030, "active": 73880, "critical": 3906, "casesPerOneMillion": 1616, "deathsPerOneMillion": 178, "firstCase": "\nJan 29 "}, "2": {"country": "Spain", "cases": 85195, "todayCases": 5085, "deaths": 7340, "todayDeaths": 537, "recovered": 16780, "active": 61075, "critical": 5231, "casesPerOneMillion": 1822, "deathsPerOneMillion": 157, "firstCase": "\nJan 30 "}, "3": {"country": "Germany", "cases": 62435, "todayCases": 0, "deaths": 541, "todayDeaths": 0, "recovered": 9211, "active": 52683, "critical": 1979, "casesPerOneMillion": 745, "deathsPerOneMillion": 6, "firstCase": "\nJan 26 "}, "4": {"country": "Iran", "cases": 41495, "todayCases": 3186, "deaths": 2757, "todayDeaths": 117, "recovered": 13911, "active": 24827, "critical": 3511, "casesPerOneMillion": 494, "deathsPerOneMillion": 33, "firstCase": "\nFeb 18 "}}, "countries": [{"country": "USA", "cases": 142746, "todayCases": 286, "deaths": 2489, "todayDeaths": 5, "recovered": 4562, "active": 135695, "critical": 2970, "casesPerOneMillion": 431, "deathsPerOneMillion": 8, "firstCase": "\nJan 20 "}, {"country": "Italy", "cases": 97689, "todayCases": 0, "deaths": 10779, "todayDeaths": 0, "recovered": 13030, "active": 73880, "critical": 3906, "casesPerOneMillion": 1616, "deathsPerOneMillion": 178, "firstCase": "\nJan 29 "}, {"country": "Spain", "cases": 85195, "todayCases": 5085, "deaths": 7340, "todayDeaths": 537, "recovered": 16780, "active": 61075, "critical": 5231, "casesPerOneMillion": 1822, "deathsPerOneMillion": 157, "firstCase": "\nJan 30 "}, {"country": "Germany", "cases": 62435, "todayCases": 0, "deaths": 541, "todayDeaths": 0, "recovered": 9211, "active": 52683, "critical": 1979, "casesPerOneMillion": 745, "deathsPerOneMillion": 6, "firstCase": "\nJan 26 "}, {"country": "Iran", "cases": 41495, "todayCases": 3186, "deaths": 2757, "todayDeaths": 117, "recovered": 13911, "active": 24827, "critical": 3511, "casesPerOneMillion": 494, "deathsPerOneMillion": 33, "firstCase": "\nFeb 18 "}, {"country": "France", "cases": 40174, "todayCases": 0, "deaths": 2606, "todayDeaths": 0, "recovered": 7202, "active": 30366, "critical": 4632, "casesPerOneMillion": 615, "deathsPerOneMillion": 40, "firstCase": "\nJan 23 "}, {"country": "UK", "cases": 19522, "todayCases": 0, "deaths": 1228, "todayDeaths": 0, "recovered": 135, "active": 18159, "critical": 163, "casesPerOneMillion": 288, "deathsPerOneMillion": 18, "firstCase": "\nJan 30 "}, {"country": "Switzerland", "cases": 15069, "todayCases": 240, "deaths": 312, "todayDeaths": 12, "recovered": 1823, "active": 12934, "critical": 301, "casesPerOneMillion": 1741, "deathsPerOneMillion": 36, "firstCase": "\nFeb 24 "}, {"country": "Belgium", "cases": 11899, "todayCases": 1063, "deaths": 513, "todayDeaths": 82, "recovered": 1527, "active": 9859, "critical": 927, "casesPerOneMillion": 1027, "deathsPerOneMillion": 44, "firstCase": "\nFeb 03 "}, {"country": "Netherlands", "cases": 10866, "todayCases": 0, "deaths": 771, "todayDeaths": 0, "recovered": 250, "active": 9845, "critical": 972, "casesPerOneMillion": 634, "deathsPerOneMillion": 45, "firstCase": "\nFeb 26 "}, {"country": "S. Korea", "cases": 9661, "todayCases": 78, "deaths": 158, "todayDeaths": 6, "recovered": 5228, "active": 4275, "critical": 59, "casesPerOneMillion": 188, "deathsPerOneMillion": 3, "firstCase": "\nJan 19 "}, {"country": "Turkey", "cases": 9217, "todayCases": 0, "deaths": 131, "todayDeaths": 0, "recovered": 105, "active": 8981, "critical": 568, "casesPerOneMillion": 109, "deathsPerOneMillion": 2, "firstCase": "\nMar 09 "}, {"country": "Austria", "cases": 9103, "todayCases": 315, "deaths": 108, "todayDeaths": 22, "recovered": 636, "active": 8359, "critical": 187, "casesPerOneMillion": 1011, "deathsPerOneMillion": 12, "firstCase": "\nFeb 24 "}, {"country": "Canada", "cases": 6320, "todayCases": 0, "deaths": 65, "todayDeaths": 0, "recovered": 573, "active": 5682, "critical": 120, "casesPerOneMillion": 167, "deathsPerOneMillion": 2, "firstCase": "\nJan 24 "}, {"country": "Portugal", "cases": 5962, "todayCases": 0, "deaths": 119, "todayDeaths": 0, "recovered": 43, "active": 5800, "critical": 89, "casesPerOneMillion": 585, "deathsPerOneMillion": 12, "firstCase": "\nMar 01 "}, {"country": "Israel", "cases": 4347, "todayCases": 100, "deaths": 16, "todayDeaths": 1, "recovered": 134, "active": 4197, "critical": 80, "casesPerOneMillion": 502, "deathsPerOneMillion": 2, "firstCase": "\nFeb 20 "}, {"country": "Norway", "cases": 4313, "todayCases": 29, "deaths": 29, "todayDeaths": 3, "recovered": 7, "active": 4277, "critical": 91, "casesPerOneMillion": 796, "deathsPerOneMillion": 5, "firstCase": "\nFeb 25 "}, {"country": "Brazil", "cases": 4256, "todayCases": 0, "deaths": 136, "todayDeaths": 0, "recovered": 6, "active": 4114, "critical": 296, "casesPerOneMillion": 20, "deathsPerOneMillion": 0, "firstCase": "\nFeb 24 "}, {"country": "Australia", "cases": 4245, "todayCases": 82, "deaths": 18, "todayDeaths": 1, "recovered": 244, "active": 3983, "critical": 28, "casesPerOneMillion": 166, "deathsPerOneMillion": 0, "firstCase": "\nJan 24 "}, {"country": "Sweden", "cases": 3700, "todayCases": 0, "deaths": 110, "todayDeaths": 0, "recovered": 16, "active": 3574, "critical": 281, "casesPerOneMillion": 366, "deathsPerOneMillion": 11, "firstCase": "\nJan 30 "}, {"country": "Czechia", "cases": 2859, "todayCases": 42, "deaths": 17, "todayDeaths": 1, "recovered": 11, "active": 2831, "critical": 52, "casesPerOneMillion": 267, "deathsPerOneMillion": 2, "firstCase": "\nFeb 29 "}, {"country": "Malaysia", "cases": 2626, "todayCases": 156, "deaths": 37, "todayDeaths": 2, "recovered": 479, "active": 2110, "critical": 94, "casesPerOneMillion": 81, "deathsPerOneMillion": 1, "firstCase": "\nJan 24 "}, {"country": "Ireland", "cases": 2615, "todayCases": 0, "deaths": 46, "todayDeaths": 0, "recovered": 5, "active": 2564, "critical": 59, "casesPerOneMillion": 530, "deathsPerOneMillion": 9, "firstCase": "\nFeb 28 "}, {"country": "Denmark", "cases": 2555, "todayCases": 160, "deaths": 72, "todayDeaths": 0, "recovered": 1, "active": 2482, "critical": 113, "casesPerOneMillion": 441, "deathsPerOneMillion": 12, "firstCase": "\nFeb 26 "}, {"country": "Chile", "cases": 2139, "todayCases": 0, "deaths": 7, "todayDeaths": 0, "recovered": 75, "active": 2057, "critical": 7, "casesPerOneMillion": 112, "deathsPerOneMillion": 0, "firstCase": "\nMar 02 "}, {"country": "Romania", "cases": 1952, "todayCases": 137, "deaths": 44, "todayDeaths": 1, "recovered": 206, "active": 1702, "critical": 31, "casesPerOneMillion": 101, "deathsPerOneMillion": 2, "firstCase": "\nFeb 25 "}, {"country": "Luxembourg", "cases": 1950, "todayCases": 0, "deaths": 21, "todayDeaths": 0, "recovered": 40, "active": 1889, "critical": 25, "casesPerOneMillion": 3115, "deathsPerOneMillion": 34, "firstCase": "\nFeb 28 "}, {"country": "Ecuador", "cases": 1924, "todayCases": 0, "deaths": 58, "todayDeaths": 0, "recovered": 3, "active": 1863, "critical": 58, "casesPerOneMillion": 109, "deathsPerOneMillion": 3, "firstCase": "\nFeb 28 "}, {"country": "Poland", "cases": 1905, "todayCases": 43, "deaths": 26, "todayDeaths": 4, "recovered": 7, "active": 1872, "critical": 3, "casesPerOneMillion": 50, "deathsPerOneMillion": 0, "firstCase": "\nMar 03 "}, {"country": "Japan", "cases": 1866, "todayCases": 0, "deaths": 54, "todayDeaths": 0, "recovered": 424, "active": 1388, "critical": 56, "casesPerOneMillion": 15, "deathsPerOneMillion": 0, "firstCase": "\nJan 14 "}, {"country": "Russia", "cases": 1836, "todayCases": 302, "deaths": 9, "todayDeaths": 1, "recovered": 66, "active": 1761, "critical": 8, "casesPerOneMillion": 13, "deathsPerOneMillion": 0, "firstCase": "\nJan 30 "}, {"country": "Pakistan", "cases": 1625, "todayCases": 28, "deaths": 18, "todayDeaths": 4, "recovered": 29, "active": 1578, "critical": 11, "casesPerOneMillion": 7, "deathsPerOneMillion": 0, "firstCase": "\nFeb 25 "}, {"country": "Philippines", "cases": 1546, "todayCases": 128, "deaths": 78, "todayDeaths": 7, "recovered": 42, "active": 1426, "critical": 1, "casesPerOneMillion": 14, "deathsPerOneMillion": 0, "firstCase": "\nJan 29 "}, {"country": "Thailand", "cases": 1524, "todayCases": 136, "deaths": 9, "todayDeaths": 2, "recovered": 229, "active": 1286, "critical": 11, "casesPerOneMillion": 22, "deathsPerOneMillion": 0, "firstCase": "\nJan 12 "}, {"country": "Indonesia", "cases": 1414, "todayCases": 129, "deaths": 122, "todayDeaths": 8, "recovered": 75, "active": 1217, "critical": 0, "casesPerOneMillion": 5, "deathsPerOneMillion": 0, "firstCase": "\nMar 01 "}, {"country": "Finland", "cases": 1343, "todayCases": 103, "deaths": 11, "todayDeaths": 0, "recovered": 10, "active": 1322, "critical": 32, "casesPerOneMillion": 242, "deathsPerOneMillion": 2, "firstCase": "\nJan 28 "}, {"country": "Saudi Arabia", "cases": 1299, "todayCases": 0, "deaths": 8, "todayDeaths": 0, "recovered": 66, "active": 1225, "critical": 12, "casesPerOneMillion": 37, "deathsPerOneMillion": 0, "firstCase": "\nMar 01 "}, {"country": "South Africa", "cases": 1280, "todayCases": 0, "deaths": 2, "todayDeaths": 0, "recovered": 31, "active": 1247, "critical": 7, "casesPerOneMillion": 22, "deathsPerOneMillion": 0, "firstCase": "\nMar 04 "}, {"country": "Greece", "cases": 1156, "todayCases": 0, "deaths": 39, "todayDeaths": 0, "recovered": 52, "active": 1065, "critical": 66, "casesPerOneMillion": 111, "deathsPerOneMillion": 4, "firstCase": "\nFeb 25 "}, {"country": "India", "cases": 1071, "todayCases": 47, "deaths": 29, "todayDeaths": 2, "recovered": 100, "active": 942, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nJan 29 "}, {"country": "Iceland", "cases": 1020, "todayCases": 0, "deaths": 2, "todayDeaths": 0, "recovered": 135, "active": 883, "critical": 25, "casesPerOneMillion": 2989, "deathsPerOneMillion": 6, "firstCase": "\nFeb 27 "}, {"country": "Mexico", "cases": 993, "todayCases": 145, "deaths": 20, "todayDeaths": 4, "recovered": 35, "active": 938, "critical": 1, "casesPerOneMillion": 8, "deathsPerOneMillion": 0, "firstCase": "\nFeb 27 "}, {"country": "Panama", "cases": 989, "todayCases": 0, "deaths": 24, "todayDeaths": 0, "recovered": 4, "active": 961, "critical": 36, "casesPerOneMillion": 229, "deathsPerOneMillion": 6, "firstCase": "\nMar 09 "}, {"country": "Dominican Republic", "cases": 859, "todayCases": 0, "deaths": 39, "todayDeaths": 0, "recovered": 3, "active": 817, "critical": 0, "casesPerOneMillion": 79, "deathsPerOneMillion": 4, "firstCase": "\nFeb 29 "}, {"country": "Peru", "cases": 852, "todayCases": 0, "deaths": 18, "todayDeaths": 0, "recovered": 16, "active": 818, "critical": 40, "casesPerOneMillion": 26, "deathsPerOneMillion": 0, "firstCase": "\nMar 05 "}, {"country": "Singapore", "cases": 844, "todayCases": 0, "deaths": 3, "todayDeaths": 0, "recovered": 212, "active": 629, "critical": 19, "casesPerOneMillion": 144, "deathsPerOneMillion": 0, "firstCase": "\nJan 22 "}, {"country": "Argentina", "cases": 820, "todayCases": 0, "deaths": 20, "todayDeaths": 0, "recovered": 91, "active": 709, "critical": 0, "casesPerOneMillion": 18, "deathsPerOneMillion": 0, "firstCase": "\nMar 02 "}, {"country": "Slovenia", "cases": 756, "todayCases": 26, "deaths": 11, "todayDeaths": 0, "recovered": 10, "active": 735, "critical": 28, "casesPerOneMillion": 364, "deathsPerOneMillion": 5, "firstCase": "\nMar 03 "}, {"country": "Serbia", "cases": 741, "todayCases": 0, "deaths": 14, "todayDeaths": 1, "recovered": 42, "active": 685, "critical": 25, "casesPerOneMillion": 85, "deathsPerOneMillion": 2, "firstCase": "\nMar 05 "}, {"country": "Croatia", "cases": 715, "todayCases": 2, "deaths": 6, "todayDeaths": 0, "recovered": 55, "active": 654, "critical": 26, "casesPerOneMillion": 174, "deathsPerOneMillion": 1, "firstCase": "\nFeb 24 "}, {"country": "Estonia", "cases": 715, "todayCases": 36, "deaths": 3, "todayDeaths": 0, "recovered": 20, "active": 692, "critical": 10, "casesPerOneMillion": 539, "deathsPerOneMillion": 2, "firstCase": "\nFeb 26 "}, {"country": "Diamond Princess", "cases": 712, "todayCases": 0, "deaths": 10, "todayDeaths": 0, "recovered": 603, "active": 99, "critical": 15, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nFeb 04 "}, {"country": "Colombia", "cases": 702, "todayCases": 0, "deaths": 10, "todayDeaths": 0, "recovered": 10, "active": 682, "critical": 29, "casesPerOneMillion": 14, "deathsPerOneMillion": 0, "firstCase": "\nMar 05 "}, {"country": "Hong Kong", "cases": 642, "todayCases": 0, "deaths": 4, "todayDeaths": 0, "recovered": 118, "active": 520, "critical": 5, "casesPerOneMillion": 86, "deathsPerOneMillion": 0, "firstCase": "\nJan 22 "}, {"country": "Qatar", "cases": 634, "todayCases": 0, "deaths": 1, "todayDeaths": 0, "recovered": 48, "active": 585, "critical": 6, "casesPerOneMillion": 220, "deathsPerOneMillion": 0, "firstCase": "\nFeb 28 "}, {"country": "Egypt", "cases": 609, "todayCases": 0, "deaths": 40, "todayDeaths": 0, "recovered": 132, "active": 437, "critical": 0, "casesPerOneMillion": 6, "deathsPerOneMillion": 0, "firstCase": "\nFeb 13 "}, {"country": "New Zealand", "cases": 589, "todayCases": 75, "deaths": 1, "todayDeaths": 0, "recovered": 63, "active": 525, "critical": 2, "casesPerOneMillion": 122, "deathsPerOneMillion": 0, "firstCase": "\nFeb 27 "}, {"country": "UAE", "cases": 570, "todayCases": 0, "deaths": 3, "todayDeaths": 0, "recovered": 58, "active": 509, "critical": 2, "casesPerOneMillion": 58, "deathsPerOneMillion": 0, "firstCase": "\nJan 28 "}, {"country": "Iraq", "cases": 547, "todayCases": 0, "deaths": 42, "todayDeaths": 0, "recovered": 143, "active": 362, "critical": 0, "casesPerOneMillion": 14, "deathsPerOneMillion": 1, "firstCase": "\nFeb 21 "}, {"country": "Morocco", "cases": 516, "todayCases": 37, "deaths": 27, "todayDeaths": 1, "recovered": 13, "active": 476, "critical": 1, "casesPerOneMillion": 14, "deathsPerOneMillion": 0, "firstCase": "\nMar 01 "}, {"country": "Bahrain", "cases": 515, "todayCases": 16, "deaths": 4, "todayDeaths": 0, "recovered": 279, "active": 232, "critical": 2, "casesPerOneMillion": 303, "deathsPerOneMillion": 2, "firstCase": "\nFeb 23 "}, {"country": "Algeria", "cases": 511, "todayCases": 0, "deaths": 31, "todayDeaths": 0, "recovered": 31, "active": 449, "critical": 0, "casesPerOneMillion": 12, "deathsPerOneMillion": 0, "firstCase": "\nFeb 24 "}, {"country": "Lithuania", "cases": 484, "todayCases": 24, "deaths": 7, "todayDeaths": 0, "recovered": 1, "active": 476, "critical": 2, "casesPerOneMillion": 178, "deathsPerOneMillion": 3, "firstCase": "\nFeb 27 "}, {"country": "Armenia", "cases": 482, "todayCases": 58, "deaths": 3, "todayDeaths": 0, "recovered": 30, "active": 449, "critical": 15, "casesPerOneMillion": 163, "deathsPerOneMillion": 1, "firstCase": "\nFeb 29 "}, {"country": "Ukraine", "cases": 480, "todayCases": 5, "deaths": 11, "todayDeaths": 1, "recovered": 6, "active": 463, "critical": 0, "casesPerOneMillion": 11, "deathsPerOneMillion": 0, "firstCase": "\nMar 02 "}, {"country": "Hungary", "cases": 447, "todayCases": 39, "deaths": 15, "todayDeaths": 2, "recovered": 34, "active": 398, "critical": 6, "casesPerOneMillion": 46, "deathsPerOneMillion": 2, "firstCase": "\nMar 03 "}, {"country": "Lebanon", "cases": 446, "todayCases": 8, "deaths": 11, "todayDeaths": 1, "recovered": 32, "active": 403, "critical": 3, "casesPerOneMillion": 65, "deathsPerOneMillion": 2, "firstCase": "\nFeb 20 "}, {"country": "Latvia", "cases": 376, "todayCases": 29, "deaths": 0, "todayDeaths": 0, "recovered": 1, "active": 375, "critical": 3, "casesPerOneMillion": 199, "deathsPerOneMillion": 0, "firstCase": "\nMar 01 "}, {"country": "Bulgaria", "cases": 354, "todayCases": 8, "deaths": 8, "todayDeaths": 0, "recovered": 15, "active": 331, "critical": 13, "casesPerOneMillion": 51, "deathsPerOneMillion": 1, "firstCase": "\nMar 06 "}, {"country": "Bosnia and Herzegovina", "cases": 340, "todayCases": 17, "deaths": 6, "todayDeaths": 0, "recovered": 8, "active": 326, "critical": 1, "casesPerOneMillion": 104, "deathsPerOneMillion": 2, "firstCase": "\nMar 04 "}, {"country": "Slovakia", "cases": 336, "todayCases": 22, "deaths": 0, "todayDeaths": 0, "recovered": 7, "active": 329, "critical": 1, "casesPerOneMillion": 62, "deathsPerOneMillion": 0, "firstCase": "\nMar 05 "}, {"country": "Andorra", "cases": 334, "todayCases": 0, "deaths": 6, "todayDeaths": 0, "recovered": 6, "active": 322, "critical": 10, "casesPerOneMillion": 4323, "deathsPerOneMillion": 78, "firstCase": "\nMar 01 "}, {"country": "Costa Rica", "cases": 314, "todayCases": 0, "deaths": 2, "todayDeaths": 0, "recovered": 3, "active": 309, "critical": 6, "casesPerOneMillion": 62, "deathsPerOneMillion": 0, "firstCase": "\nMar 04 "}, {"country": "Tunisia", "cases": 312, "todayCases": 0, "deaths": 8, "todayDeaths": 0, "recovered": 2, "active": 302, "critical": 10, "casesPerOneMillion": 26, "deathsPerOneMillion": 0, "firstCase": "\nMar 01 "}, {"country": "Taiwan", "cases": 306, "todayCases": 8, "deaths": 5, "todayDeaths": 2, "recovered": 39, "active": 262, "critical": 0, "casesPerOneMillion": 13, "deathsPerOneMillion": 0, "firstCase": "\nJan 20 "}, {"country": "Uruguay", "cases": 304, "todayCases": 0, "deaths": 1, "todayDeaths": 0, "recovered": 0, "active": 303, "critical": 9, "casesPerOneMillion": 88, "deathsPerOneMillion": 0, "firstCase": "\nMar 12 "}, {"country": "Kazakhstan", "cases": 294, "todayCases": 10, "deaths": 1, "todayDeaths": 0, "recovered": 20, "active": 273, "critical": 0, "casesPerOneMillion": 16, "deathsPerOneMillion": 0, "firstCase": "\nMar 12 "}, {"country": "Kuwait", "cases": 266, "todayCases": 11, "deaths": 0, "todayDeaths": 0, "recovered": 72, "active": 194, "critical": 13, "casesPerOneMillion": 62, "deathsPerOneMillion": 0, "firstCase": "\nFeb 23 "}, {"country": "Moldova", "cases": 263, "todayCases": 0, "deaths": 2, "todayDeaths": 0, "recovered": 13, "active": 248, "critical": 33, "casesPerOneMillion": 65, "deathsPerOneMillion": 0, "firstCase": "\nMar 06 "}, {"country": "North Macedonia", "cases": 259, "todayCases": 0, "deaths": 6, "todayDeaths": 0, "recovered": 3, "active": 250, "critical": 1, "casesPerOneMillion": 124, "deathsPerOneMillion": 3, "firstCase": "\nFeb 25 "}, {"country": "Jordan", "cases": 259, "todayCases": 0, "deaths": 4, "todayDeaths": 1, "recovered": 18, "active": 237, "critical": 3, "casesPerOneMillion": 25, "deathsPerOneMillion": 0, "firstCase": "\nMar 01 "}, {"country": "San Marino", "cases": 224, "todayCases": 0, "deaths": 22, "todayDeaths": 0, "recovered": 6, "active": 196, "critical": 16, "casesPerOneMillion": 6602, "deathsPerOneMillion": 648, "firstCase": "\nFeb 26 "}, {"country": "Albania", "cases": 223, "todayCases": 11, "deaths": 11, "todayDeaths": 1, "recovered": 44, "active": 168, "critical": 7, "casesPerOneMillion": 77, "deathsPerOneMillion": 4, "firstCase": "\n Mar 07 "}, {"country": "Burkina Faso", "cases": 222, "todayCases": 0, "deaths": 12, "todayDeaths": 0, "recovered": 23, "active": 187, "critical": 0, "casesPerOneMillion": 11, "deathsPerOneMillion": 0, "firstCase": "\nMar 08 "}, {"country": "Cyprus", "cases": 214, "todayCases": 0, "deaths": 6, "todayDeaths": 0, "recovered": 15, "active": 193, "critical": 3, "casesPerOneMillion": 177, "deathsPerOneMillion": 5, "firstCase": "\nMar 08 "}, {"country": "Azerbaijan", "cases": 209, "todayCases": 0, "deaths": 4, "todayDeaths": 0, "recovered": 15, "active": 190, "critical": 23, "casesPerOneMillion": 21, "deathsPerOneMillion": 0, "firstCase": "\nFeb 27 "}, {"country": "Vietnam", "cases": 194, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 52, "active": 142, "critical": 3, "casesPerOneMillion": 2, "deathsPerOneMillion": 0, "firstCase": "\nJan 22 "}, {"country": "R\u00e9union", "cases": 183, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 1, "active": 182, "critical": 0, "casesPerOneMillion": 204, "deathsPerOneMillion": 0, "firstCase": "\nMar 10 "}, {"country": "Oman", "cases": 167, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 23, "active": 144, "critical": 3, "casesPerOneMillion": 33, "deathsPerOneMillion": 0, "firstCase": "\nFeb 23 "}, {"country": "Ivory Coast", "cases": 165, "todayCases": 0, "deaths": 1, "todayDeaths": 0, "recovered": 4, "active": 160, "critical": 0, "casesPerOneMillion": 6, "deathsPerOneMillion": 0, "firstCase": "\nMar 10 "}, {"country": "Senegal", "cases": 162, "todayCases": 20, "deaths": 0, "todayDeaths": 0, "recovered": 27, "active": 135, "critical": 0, "casesPerOneMillion": 10, "deathsPerOneMillion": 0, "firstCase": "\nMar 01 "}, {"country": "Faeroe Islands", "cases": 159, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 70, "active": 89, "critical": 1, "casesPerOneMillion": 3254, "deathsPerOneMillion": 0, "firstCase": "\nMar 03 "}, {"country": "Ghana", "cases": 152, "todayCases": 0, "deaths": 5, "todayDeaths": 0, "recovered": 2, "active": 145, "critical": 1, "casesPerOneMillion": 5, "deathsPerOneMillion": 0, "firstCase": "\nMar 11 "}, {"country": "Malta", "cases": 151, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 2, "active": 149, "critical": 4, "casesPerOneMillion": 342, "deathsPerOneMillion": 0, "firstCase": "\nMar 06 "}, {"country": "Uzbekistan", "cases": 144, "todayCases": 0, "deaths": 2, "todayDeaths": 0, "recovered": 7, "active": 135, "critical": 8, "casesPerOneMillion": 4, "deathsPerOneMillion": 0, "firstCase": "\nMar 14 "}, {"country": "Cameroon", "cases": 139, "todayCases": 0, "deaths": 6, "todayDeaths": 0, "recovered": 5, "active": 128, "critical": 0, "casesPerOneMillion": 5, "deathsPerOneMillion": 0, "firstCase": "\nMar 05 "}, {"country": "Cuba", "cases": 139, "todayCases": 0, "deaths": 3, "todayDeaths": 0, "recovered": 4, "active": 132, "critical": 2, "casesPerOneMillion": 12, "deathsPerOneMillion": 0, "firstCase": "\nMar 10 "}, {"country": "Honduras", "cases": 139, "todayCases": 29, "deaths": 3, "todayDeaths": 0, "recovered": 3, "active": 133, "critical": 4, "casesPerOneMillion": 14, "deathsPerOneMillion": 0, "firstCase": "\nMar 10 "}, {"country": "Brunei", "cases": 127, "todayCases": 1, "deaths": 1, "todayDeaths": 0, "recovered": 38, "active": 88, "critical": 3, "casesPerOneMillion": 290, "deathsPerOneMillion": 2, "firstCase": "\nMar 08 "}, {"country": "Sri Lanka", "cases": 122, "todayCases": 5, "deaths": 1, "todayDeaths": 0, "recovered": 15, "active": 106, "critical": 5, "casesPerOneMillion": 6, "deathsPerOneMillion": 0, "firstCase": "\nJan 26 "}, {"country": "Afghanistan", "cases": 120, "todayCases": 0, "deaths": 4, "todayDeaths": 0, "recovered": 2, "active": 114, "critical": 0, "casesPerOneMillion": 3, "deathsPerOneMillion": 0, "firstCase": "\nFeb 23 "}, {"country": "Venezuela", "cases": 119, "todayCases": 0, "deaths": 3, "todayDeaths": 0, "recovered": 39, "active": 77, "critical": 6, "casesPerOneMillion": 4, "deathsPerOneMillion": 0, "firstCase": "\nMar 12 "}, {"country": "Palestine", "cases": 115, "todayCases": 6, "deaths": 1, "todayDeaths": 0, "recovered": 18, "active": 96, "critical": 0, "casesPerOneMillion": 23, "deathsPerOneMillion": 0, "firstCase": "\nMar 04 "}, {"country": "Nigeria", "cases": 111, "todayCases": 0, "deaths": 1, "todayDeaths": 0, "recovered": 3, "active": 107, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nFeb 27 "}, {"country": "Mauritius", "cases": 110, "todayCases": 3, "deaths": 3, "todayDeaths": 0, "recovered": 0, "active": 107, "critical": 1, "casesPerOneMillion": 86, "deathsPerOneMillion": 2, "firstCase": "\nMar 17 "}, {"country": "Channel Islands", "cases": 108, "todayCases": 0, "deaths": 2, "todayDeaths": 0, "recovered": 0, "active": 106, "critical": 0, "casesPerOneMillion": 621, "deathsPerOneMillion": 12, "firstCase": "\nMar 08 "}, {"country": "Cambodia", "cases": 107, "todayCases": 4, "deaths": 0, "todayDeaths": 0, "recovered": 21, "active": 86, "critical": 1, "casesPerOneMillion": 6, "deathsPerOneMillion": 0, "firstCase": "\nJan 26 "}, {"country": "Guadeloupe", "cases": 106, "todayCases": 0, "deaths": 4, "todayDeaths": 0, "recovered": 17, "active": 85, "critical": 10, "casesPerOneMillion": 265, "deathsPerOneMillion": 10, "firstCase": "\nMar 12 "}, {"country": "Georgia", "cases": 98, "todayCases": 7, "deaths": 0, "todayDeaths": 0, "recovered": 18, "active": 80, "critical": 1, "casesPerOneMillion": 25, "deathsPerOneMillion": 0, "firstCase": "\nFeb 25 "}, {"country": "Bolivia", "cases": 96, "todayCases": 15, "deaths": 1, "todayDeaths": 0, "recovered": 0, "active": 95, "critical": 3, "casesPerOneMillion": 8, "deathsPerOneMillion": 0, "firstCase": "\nMar 09 "}, {"country": "Belarus", "cases": 94, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 32, "active": 62, "critical": 2, "casesPerOneMillion": 10, "deathsPerOneMillion": 0, "firstCase": "\nFeb 27 "}, {"country": "Kyrgyzstan", "cases": 94, "todayCases": 10, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 94, "critical": 0, "casesPerOneMillion": 14, "deathsPerOneMillion": 0, "firstCase": "\nMar 17 "}, {"country": "Martinique", "cases": 93, "todayCases": 0, "deaths": 1, "todayDeaths": 0, "recovered": 0, "active": 92, "critical": 12, "casesPerOneMillion": 248, "deathsPerOneMillion": 3, "firstCase": "\nMar 04 "}, {"country": "Montenegro", "cases": 91, "todayCases": 6, "deaths": 1, "todayDeaths": 0, "recovered": 0, "active": 90, "critical": 1, "casesPerOneMillion": 145, "deathsPerOneMillion": 2, "firstCase": "\nMar 16 "}, {"country": "Mayotte", "cases": 82, "todayCases": 19, "deaths": 0, "todayDeaths": 0, "recovered": 10, "active": 72, "critical": 3, "casesPerOneMillion": 301, "deathsPerOneMillion": 0, "firstCase": "\nMar 13 "}, {"country": "DRC", "cases": 81, "todayCases": 0, "deaths": 8, "todayDeaths": 0, "recovered": 2, "active": 71, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 09 "}, {"country": "Trinidad and Tobago", "cases": 78, "todayCases": 0, "deaths": 3, "todayDeaths": 0, "recovered": 1, "active": 74, "critical": 0, "casesPerOneMillion": 56, "deathsPerOneMillion": 2, "firstCase": "\nMar 11 "}, {"country": "Rwanda", "cases": 70, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 70, "critical": 0, "casesPerOneMillion": 5, "deathsPerOneMillion": 0, "firstCase": "\nMar 13 "}, {"country": "Gibraltar", "cases": 65, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 14, "active": 51, "critical": 0, "casesPerOneMillion": 1929, "deathsPerOneMillion": 0, "firstCase": "\nMar 02 "}, {"country": "Paraguay", "cases": 64, "todayCases": 5, "deaths": 3, "todayDeaths": 0, "recovered": 1, "active": 60, "critical": 3, "casesPerOneMillion": 9, "deathsPerOneMillion": 0, "firstCase": "\nMar 06 "}, {"country": "Liechtenstein", "cases": 56, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 56, "critical": 0, "casesPerOneMillion": 1469, "deathsPerOneMillion": 0, "firstCase": "\nMar 02 "}, {"country": "Aruba", "cases": 50, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 1, "active": 49, "critical": 0, "casesPerOneMillion": 468, "deathsPerOneMillion": 0, "firstCase": "\nMar 12 "}, {"country": "Bangladesh", "cases": 49, "todayCases": 1, "deaths": 5, "todayDeaths": 0, "recovered": 19, "active": 25, "critical": 1, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 07 "}, {"country": "Monaco", "cases": 46, "todayCases": 0, "deaths": 1, "todayDeaths": 0, "recovered": 1, "active": 44, "critical": 0, "casesPerOneMillion": 1172, "deathsPerOneMillion": 25, "firstCase": "\nFeb 27 "}, {"country": "Isle of Man", "cases": 46, "todayCases": 4, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 46, "critical": 0, "casesPerOneMillion": 541, "deathsPerOneMillion": 0, "firstCase": "\nMar 18 "}, {"country": "French Guiana", "cases": 43, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 6, "active": 37, "critical": 0, "casesPerOneMillion": 144, "deathsPerOneMillion": 0, "firstCase": "\nMar 06 "}, {"country": "Kenya", "cases": 42, "todayCases": 0, "deaths": 1, "todayDeaths": 0, "recovered": 1, "active": 40, "critical": 2, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 12 "}, {"country": "Madagascar", "cases": 39, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 39, "critical": 0, "casesPerOneMillion": 1, "deathsPerOneMillion": 0, "firstCase": "\nMar 19 "}, {"country": "Macao", "cases": 38, "todayCases": 1, "deaths": 0, "todayDeaths": 0, "recovered": 10, "active": 28, "critical": 0, "casesPerOneMillion": 59, "deathsPerOneMillion": 0, "firstCase": "\nJan 21 "}, {"country": "Guatemala", "cases": 34, "todayCases": 0, "deaths": 1, "todayDeaths": 0, "recovered": 10, "active": 23, "critical": 1, "casesPerOneMillion": 2, "deathsPerOneMillion": 0, "firstCase": "\nMar 12 "}, {"country": "Barbados", "cases": 33, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 33, "critical": 0, "casesPerOneMillion": 115, "deathsPerOneMillion": 0, "firstCase": "\nMar 16 "}, {"country": "Uganda", "cases": 33, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 33, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 20 "}, {"country": "Jamaica", "cases": 32, "todayCases": 0, "deaths": 1, "todayDeaths": 0, "recovered": 2, "active": 29, "critical": 0, "casesPerOneMillion": 11, "deathsPerOneMillion": 0, "firstCase": "\nMar 09 "}, {"country": "Togo", "cases": 30, "todayCases": 5, "deaths": 1, "todayDeaths": 0, "recovered": 1, "active": 28, "critical": 0, "casesPerOneMillion": 4, "deathsPerOneMillion": 0, "firstCase": "\nMar 05 "}, {"country": "El Salvador", "cases": 30, "todayCases": 6, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 30, "critical": 0, "casesPerOneMillion": 5, "deathsPerOneMillion": 0, "firstCase": "\nMar 18 "}, {"country": "French Polynesia", "cases": 30, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 30, "critical": 0, "casesPerOneMillion": 107, "deathsPerOneMillion": 0, "firstCase": "\nMar 10 "}, {"country": "Zambia", "cases": 29, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 29, "critical": 0, "casesPerOneMillion": 2, "deathsPerOneMillion": 0, "firstCase": "\nMar 17 "}, {"country": "Ethiopia", "cases": 23, "todayCases": 2, "deaths": 0, "todayDeaths": 0, "recovered": 1, "active": 22, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 12 "}, {"country": "Niger", "cases": 22, "todayCases": 4, "deaths": 3, "todayDeaths": 2, "recovered": 0, "active": 19, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 18 "}, {"country": "Bermuda", "cases": 22, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 2, "active": 20, "critical": 0, "casesPerOneMillion": 353, "deathsPerOneMillion": 0, "firstCase": "\nMar 17 "}, {"country": "Congo", "cases": 19, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 19, "critical": 0, "casesPerOneMillion": 3, "deathsPerOneMillion": 0, "firstCase": "\nMar 14 "}, {"country": "Mali", "cases": 18, "todayCases": 0, "deaths": 1, "todayDeaths": 0, "recovered": 0, "active": 17, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 24 "}, {"country": "Djibouti", "cases": 18, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 18, "critical": 0, "casesPerOneMillion": 18, "deathsPerOneMillion": 0, "firstCase": "\nMar 17 "}, {"country": "Maldives", "cases": 17, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 13, "active": 4, "critical": 0, "casesPerOneMillion": 31, "deathsPerOneMillion": 0, "firstCase": "\nMar 06 "}, {"country": "Guinea", "cases": 16, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 16, "critical": 0, "casesPerOneMillion": 1, "deathsPerOneMillion": 0, "firstCase": "\nMar 12 "}, {"country": "Haiti", "cases": 15, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 1, "active": 14, "critical": 0, "casesPerOneMillion": 1, "deathsPerOneMillion": 0, "firstCase": "\nMar 19 "}, {"country": "New Caledonia", "cases": 15, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 15, "critical": 0, "casesPerOneMillion": 53, "deathsPerOneMillion": 0, "firstCase": "\nMar 17 "}, {"country": "Bahamas", "cases": 14, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 1, "active": 13, "critical": 0, "casesPerOneMillion": 36, "deathsPerOneMillion": 0, "firstCase": "\nMar 14 "}, {"country": "Tanzania", "cases": 14, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 1, "active": 13, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 15 "}, {"country": "Cayman Islands", "cases": 12, "todayCases": 0, "deaths": 1, "todayDeaths": 0, "recovered": 0, "active": 11, "critical": 0, "casesPerOneMillion": 183, "deathsPerOneMillion": 15, "firstCase": "\nMar 12 "}, {"country": "Equatorial Guinea", "cases": 12, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 12, "critical": 0, "casesPerOneMillion": 9, "deathsPerOneMillion": 0, "firstCase": "\nMar 13 "}, {"country": "Eritrea", "cases": 12, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 12, "critical": 0, "casesPerOneMillion": 3, "deathsPerOneMillion": 0, "firstCase": "\nMar 20 "}, {"country": "Mongolia", "cases": 12, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 2, "active": 10, "critical": 0, "casesPerOneMillion": 4, "deathsPerOneMillion": 0, "firstCase": "\nMar 09 "}, {"country": "Dominica", "cases": 11, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 11, "critical": 0, "casesPerOneMillion": 153, "deathsPerOneMillion": 0, "firstCase": "\nMar 21 "}, {"country": "Namibia", "cases": 11, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 2, "active": 9, "critical": 0, "casesPerOneMillion": 4, "deathsPerOneMillion": 0, "firstCase": "\nMar 13 "}, {"country": "Saint Martin", "cases": 11, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 11, "critical": 0, "casesPerOneMillion": 284, "deathsPerOneMillion": 0, "firstCase": "\nFeb 29 "}, {"country": "Greenland", "cases": 10, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 2, "active": 8, "critical": 0, "casesPerOneMillion": 176, "deathsPerOneMillion": 0, "firstCase": "\nMar 15 "}, {"country": "Myanmar", "cases": 10, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 10, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 22 "}, {"country": "Syria", "cases": 9, "todayCases": 0, "deaths": 1, "todayDeaths": 0, "recovered": 0, "active": 8, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 21 "}, {"country": "Grenada", "cases": 9, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 9, "critical": 0, "casesPerOneMillion": 80, "deathsPerOneMillion": 0, "firstCase": "\nMar 21 "}, {"country": "Saint Lucia", "cases": 9, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 1, "active": 8, "critical": 0, "casesPerOneMillion": 49, "deathsPerOneMillion": 0, "firstCase": "\nMar 12 "}, {"country": "Eswatini", "cases": 9, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 9, "critical": 0, "casesPerOneMillion": 8, "deathsPerOneMillion": 0, "firstCase": "\nMar 13 "}, {"country": "Cura\u00e7ao", "cases": 8, "todayCases": 0, "deaths": 1, "todayDeaths": 0, "recovered": 2, "active": 5, "critical": 0, "casesPerOneMillion": 49, "deathsPerOneMillion": 6, "firstCase": "\nMar 12 "}, {"country": "Guyana", "cases": 8, "todayCases": 0, "deaths": 1, "todayDeaths": 0, "recovered": 0, "active": 7, "critical": 0, "casesPerOneMillion": 10, "deathsPerOneMillion": 1, "firstCase": "\nMar 11 "}, {"country": "Laos", "cases": 8, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 8, "critical": 0, "casesPerOneMillion": 1, "deathsPerOneMillion": 0, "firstCase": "\nMar 23 "}, {"country": "Libya", "cases": 8, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 8, "critical": 0, "casesPerOneMillion": 1, "deathsPerOneMillion": 0, "firstCase": "\nMar 23 "}, {"country": "Mozambique", "cases": 8, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 8, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 21 "}, {"country": "Seychelles", "cases": 8, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 8, "critical": 0, "casesPerOneMillion": 81, "deathsPerOneMillion": 0, "firstCase": "\nMar 13 "}, {"country": "Suriname", "cases": 8, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 8, "critical": 0, "casesPerOneMillion": 14, "deathsPerOneMillion": 0, "firstCase": "\nMar 12 "}, {"country": "Angola", "cases": 7, "todayCases": 0, "deaths": 2, "todayDeaths": 0, "recovered": 0, "active": 5, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 19 "}, {"country": "Gabon", "cases": 7, "todayCases": 0, "deaths": 1, "todayDeaths": 0, "recovered": 0, "active": 6, "critical": 0, "casesPerOneMillion": 3, "deathsPerOneMillion": 0, "firstCase": "\nMar 12 "}, {"country": "Zimbabwe", "cases": 7, "todayCases": 0, "deaths": 1, "todayDeaths": 0, "recovered": 0, "active": 6, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 19 "}, {"country": "Antigua and Barbuda", "cases": 7, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 7, "critical": 0, "casesPerOneMillion": 71, "deathsPerOneMillion": 0, "firstCase": "\nMar 12 "}, {"country": "Cabo Verde", "cases": 6, "todayCases": 0, "deaths": 1, "todayDeaths": 0, "recovered": 0, "active": 5, "critical": 0, "casesPerOneMillion": 11, "deathsPerOneMillion": 2, "firstCase": "\nMar 19 "}, {"country": "Sudan", "cases": 6, "todayCases": 0, "deaths": 1, "todayDeaths": 0, "recovered": 0, "active": 5, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 12 "}, {"country": "Benin", "cases": 6, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 6, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 15 "}, {"country": "Vatican City", "cases": 6, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 6, "critical": 0, "casesPerOneMillion": 7491, "deathsPerOneMillion": 0, "firstCase": "\nMar 05 "}, {"country": "Sint Maarten", "cases": 6, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 6, "critical": 0, "casesPerOneMillion": 140, "deathsPerOneMillion": 0, "firstCase": "\nMar 17 "}, {"country": "Nepal", "cases": 5, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 1, "active": 4, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\n Jan 23 "}, {"country": "Fiji", "cases": 5, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 5, "critical": 0, "casesPerOneMillion": 6, "deathsPerOneMillion": 0, "firstCase": "\nMar 18 "}, {"country": "Mauritania", "cases": 5, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 2, "active": 3, "critical": 0, "casesPerOneMillion": 1, "deathsPerOneMillion": 0, "firstCase": "\nMar 12 "}, {"country": "Montserrat", "cases": 5, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 5, "critical": 0, "casesPerOneMillion": 1002, "deathsPerOneMillion": 0, "firstCase": "\nMar 17 "}, {"country": "St. Barth", "cases": 5, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 5, "critical": 0, "casesPerOneMillion": 506, "deathsPerOneMillion": 0, "firstCase": "\nFeb 29 "}, {"country": "Gambia", "cases": 4, "todayCases": 0, "deaths": 1, "todayDeaths": 0, "recovered": 0, "active": 3, "critical": 0, "casesPerOneMillion": 2, "deathsPerOneMillion": 0, "firstCase": "\nMar 16 "}, {"country": "Nicaragua", "cases": 4, "todayCases": 0, "deaths": 1, "todayDeaths": 0, "recovered": 0, "active": 3, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 18 "}, {"country": "Bhutan", "cases": 4, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 4, "critical": 0, "casesPerOneMillion": 5, "deathsPerOneMillion": 0, "firstCase": "\nMar 05 "}, {"country": "Turks and Caicos", "cases": 4, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 4, "critical": 0, "casesPerOneMillion": 103, "deathsPerOneMillion": 0, "firstCase": "\nMar 22 "}, {"country": "CAR", "cases": 3, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 3, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 14 "}, {"country": "Chad", "cases": 3, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 3, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 18 "}, {"country": "Liberia", "cases": 3, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 3, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 15 "}, {"country": "Somalia", "cases": 3, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 3, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 15 "}, {"country": "MS Zaandam", "cases": 2, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 2, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 26 "}, {"country": "Anguilla", "cases": 2, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 2, "critical": 0, "casesPerOneMillion": 133, "deathsPerOneMillion": 0, "firstCase": "\nMar 25 "}, {"country": "Belize", "cases": 2, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 2, "critical": 0, "casesPerOneMillion": 5, "deathsPerOneMillion": 0, "firstCase": "\nMar 22 "}, {"country": "British Virgin Islands", "cases": 2, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 2, "critical": 0, "casesPerOneMillion": 66, "deathsPerOneMillion": 0, "firstCase": "\nMar 24 "}, {"country": "Guinea-Bissau", "cases": 2, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 2, "critical": 0, "casesPerOneMillion": 1, "deathsPerOneMillion": 0, "firstCase": "\nMar 24 "}, {"country": "Saint Kitts and Nevis", "cases": 2, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 2, "critical": 0, "casesPerOneMillion": 38, "deathsPerOneMillion": 0, "firstCase": "\nMar 24 "}, {"country": "Papua New Guinea", "cases": 1, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 1, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 19 "}, {"country": "St. Vincent Grenadines", "cases": 1, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 1, "active": 0, "critical": 0, "casesPerOneMillion": 9, "deathsPerOneMillion": 0, "firstCase": "\nMar 10 "}, {"country": "Timor-Leste", "cases": 1, "todayCases": 0, "deaths": 0, "todayDeaths": 0, "recovered": 0, "active": 1, "critical": 0, "casesPerOneMillion": 0, "deathsPerOneMillion": 0, "firstCase": "\nMar 20 "}, {"country": "China", "cases": 81470, "todayCases": 31, "deaths": 3304, "todayDeaths": 4, "recovered": 75700, "active": 2466, "critical": 633, "casesPerOneMillion": 57, "deathsPerOneMillion": 2, "firstCase": "\nJan 10 "}]}
+{
+  "all": {
+    "cases": 735833,
+    "deaths": 34847,
+    "recovered": 156142
+  },
+  "countries": {
+    "Afghanistan": [
+      {
+        "active": 114,
+        "cases": 120,
+        "casesPerOneMillion": 3,
+        "critical": 0,
+        "deaths": 4,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nFeb 23 ",
+        "position": 100,
+        "recovered": 2,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Albania": [
+      {
+        "active": 168,
+        "cases": 223,
+        "casesPerOneMillion": 77,
+        "critical": 7,
+        "deaths": 11,
+        "deathsPerOneMillion": 4,
+        "firstCase": "\nMar 07 ",
+        "position": 82,
+        "recovered": 44,
+        "todayCases": 11,
+        "todayDeaths": 1
+      }
+    ],
+    "Algeria": [
+      {
+        "active": 449,
+        "cases": 511,
+        "casesPerOneMillion": 12,
+        "critical": 0,
+        "deaths": 31,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nFeb 24 ",
+        "position": 61,
+        "recovered": 31,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Andorra": [
+      {
+        "active": 322,
+        "cases": 334,
+        "casesPerOneMillion": 4323,
+        "critical": 10,
+        "deaths": 6,
+        "deathsPerOneMillion": 78,
+        "firstCase": "\nMar 01 ",
+        "position": 71,
+        "recovered": 6,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Angola": [
+      {
+        "active": 5,
+        "cases": 7,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 2,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 19 ",
+        "position": 169,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Anguilla": [
+      {
+        "active": 2,
+        "cases": 2,
+        "casesPerOneMillion": 133,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 25 ",
+        "position": 193,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Antigua and Barbuda": [
+      {
+        "active": 7,
+        "cases": 7,
+        "casesPerOneMillion": 71,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 12 ",
+        "position": 172,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Argentina": [
+      {
+        "active": 709,
+        "cases": 820,
+        "casesPerOneMillion": 18,
+        "critical": 0,
+        "deaths": 20,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 02 ",
+        "position": 46,
+        "recovered": 91,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Armenia": [
+      {
+        "active": 449,
+        "cases": 482,
+        "casesPerOneMillion": 163,
+        "critical": 15,
+        "deaths": 3,
+        "deathsPerOneMillion": 1,
+        "firstCase": "\nFeb 29 ",
+        "position": 63,
+        "recovered": 30,
+        "todayCases": 58,
+        "todayDeaths": 0
+      }
+    ],
+    "Aruba": [
+      {
+        "active": 49,
+        "cases": 50,
+        "casesPerOneMillion": 468,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 12 ",
+        "position": 121,
+        "recovered": 1,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Australia": [
+      {
+        "active": 3983,
+        "cases": 4245,
+        "casesPerOneMillion": 166,
+        "critical": 28,
+        "deaths": 18,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nJan 24 ",
+        "position": 18,
+        "recovered": 244,
+        "todayCases": 82,
+        "todayDeaths": 1
+      }
+    ],
+    "Austria": [
+      {
+        "active": 8456,
+        "cases": 9200,
+        "casesPerOneMillion": 1021,
+        "critical": 193,
+        "deaths": 108,
+        "deathsPerOneMillion": 12,
+        "firstCase": "\nFeb 24 ",
+        "position": 12,
+        "recovered": 636,
+        "todayCases": 412,
+        "todayDeaths": 22
+      }
+    ],
+    "Azerbaijan": [
+      {
+        "active": 190,
+        "cases": 209,
+        "casesPerOneMillion": 21,
+        "critical": 23,
+        "deaths": 4,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nFeb 27 ",
+        "position": 85,
+        "recovered": 15,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Bahamas": [
+      {
+        "active": 13,
+        "cases": 14,
+        "casesPerOneMillion": 36,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 14 ",
+        "position": 148,
+        "recovered": 1,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Bahrain": [
+      {
+        "active": 232,
+        "cases": 515,
+        "casesPerOneMillion": 303,
+        "critical": 2,
+        "deaths": 4,
+        "deathsPerOneMillion": 2,
+        "firstCase": "\nFeb 23 ",
+        "position": 60,
+        "recovered": 279,
+        "todayCases": 16,
+        "todayDeaths": 0
+      }
+    ],
+    "Bangladesh": [
+      {
+        "active": 25,
+        "cases": 49,
+        "casesPerOneMillion": 0,
+        "critical": 1,
+        "deaths": 5,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 07 ",
+        "position": 122,
+        "recovered": 19,
+        "todayCases": 1,
+        "todayDeaths": 0
+      }
+    ],
+    "Barbados": [
+      {
+        "active": 33,
+        "cases": 33,
+        "casesPerOneMillion": 115,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\n Mar 16 ",
+        "position": 131,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Belarus": [
+      {
+        "active": 62,
+        "cases": 94,
+        "casesPerOneMillion": 10,
+        "critical": 2,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nFeb 27 ",
+        "position": 110,
+        "recovered": 32,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Belgium": [
+      {
+        "active": 9859,
+        "cases": 11899,
+        "casesPerOneMillion": 1027,
+        "critical": 927,
+        "deaths": 513,
+        "deathsPerOneMillion": 44,
+        "firstCase": "\nFeb 03 ",
+        "position": 8,
+        "recovered": 1527,
+        "todayCases": 1063,
+        "todayDeaths": 82
+      }
+    ],
+    "Belize": [
+      {
+        "active": 2,
+        "cases": 2,
+        "casesPerOneMillion": 5,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 22 ",
+        "position": 194,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Benin": [
+      {
+        "active": 6,
+        "cases": 6,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 15 ",
+        "position": 176,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Bermuda": [
+      {
+        "active": 20,
+        "cases": 22,
+        "casesPerOneMillion": 353,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 17 ",
+        "position": 140,
+        "recovered": 2,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Bhutan": [
+      {
+        "active": 4,
+        "cases": 4,
+        "casesPerOneMillion": 5,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 05 ",
+        "position": 186,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Bolivia": [
+      {
+        "active": 93,
+        "cases": 96,
+        "casesPerOneMillion": 8,
+        "critical": 3,
+        "deaths": 3,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 09 ",
+        "position": 109,
+        "recovered": 0,
+        "todayCases": 15,
+        "todayDeaths": 2
+      }
+    ],
+    "Bosnia and Herzegovina": [
+      {
+        "active": 329,
+        "cases": 354,
+        "casesPerOneMillion": 108,
+        "critical": 1,
+        "deaths": 8,
+        "deathsPerOneMillion": 2,
+        "firstCase": "\nMar 04 ",
+        "position": 68,
+        "recovered": 17,
+        "todayCases": 31,
+        "todayDeaths": 2
+      }
+    ],
+    "Brazil": [
+      {
+        "active": 4171,
+        "cases": 4316,
+        "casesPerOneMillion": 20,
+        "critical": 296,
+        "deaths": 139,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nFeb 24 ",
+        "position": 17,
+        "recovered": 6,
+        "todayCases": 60,
+        "todayDeaths": 3
+      }
+    ],
+    "British Virgin Islands": [
+      {
+        "active": 2,
+        "cases": 2,
+        "casesPerOneMillion": 66,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 24 ",
+        "position": 195,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Brunei": [
+      {
+        "active": 88,
+        "cases": 127,
+        "casesPerOneMillion": 290,
+        "critical": 3,
+        "deaths": 1,
+        "deathsPerOneMillion": 2,
+        "firstCase": "\nMar 08 ",
+        "position": 98,
+        "recovered": 38,
+        "todayCases": 1,
+        "todayDeaths": 0
+      }
+    ],
+    "Bulgaria": [
+      {
+        "active": 331,
+        "cases": 354,
+        "casesPerOneMillion": 51,
+        "critical": 13,
+        "deaths": 8,
+        "deathsPerOneMillion": 1,
+        "firstCase": "\nMar 06 ",
+        "position": 69,
+        "recovered": 15,
+        "todayCases": 8,
+        "todayDeaths": 0
+      }
+    ],
+    "Burkina Faso": [
+      {
+        "active": 187,
+        "cases": 222,
+        "casesPerOneMillion": 11,
+        "critical": 0,
+        "deaths": 12,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 08 ",
+        "position": 83,
+        "recovered": 23,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "CAR": [
+      {
+        "active": 3,
+        "cases": 3,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 14 ",
+        "position": 188,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Cabo Verde": [
+      {
+        "active": 5,
+        "cases": 6,
+        "casesPerOneMillion": 11,
+        "critical": 0,
+        "deaths": 1,
+        "deathsPerOneMillion": 2,
+        "firstCase": "\nMar 19 ",
+        "position": 174,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Cambodia": [
+      {
+        "active": 86,
+        "cases": 107,
+        "casesPerOneMillion": 6,
+        "critical": 1,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nJan 26 ",
+        "position": 106,
+        "recovered": 21,
+        "todayCases": 4,
+        "todayDeaths": 0
+      }
+    ],
+    "Cameroon": [
+      {
+        "active": 128,
+        "cases": 139,
+        "casesPerOneMillion": 5,
+        "critical": 0,
+        "deaths": 6,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 05 ",
+        "position": 95,
+        "recovered": 5,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Canada": [
+      {
+        "active": 5682,
+        "cases": 6320,
+        "casesPerOneMillion": 167,
+        "critical": 120,
+        "deaths": 65,
+        "deathsPerOneMillion": 2,
+        "firstCase": "\nJan 24 ",
+        "position": 14,
+        "recovered": 573,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Cayman Islands": [
+      {
+        "active": 11,
+        "cases": 12,
+        "casesPerOneMillion": 183,
+        "critical": 0,
+        "deaths": 1,
+        "deathsPerOneMillion": 15,
+        "firstCase": "\nMar 12 ",
+        "position": 149,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Chad": [
+      {
+        "active": 3,
+        "cases": 3,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 18 ",
+        "position": 189,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Channel Islands": [
+      {
+        "active": 106,
+        "cases": 108,
+        "casesPerOneMillion": 621,
+        "critical": 0,
+        "deaths": 2,
+        "deathsPerOneMillion": 12,
+        "firstCase": "\nMar 08 ",
+        "position": 105,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Chile": [
+      {
+        "active": 2057,
+        "cases": 2139,
+        "casesPerOneMillion": 112,
+        "critical": 7,
+        "deaths": 7,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 02 ",
+        "position": 24,
+        "recovered": 75,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "China": [
+      {
+        "active": 2466,
+        "cases": 81470,
+        "casesPerOneMillion": 57,
+        "critical": 633,
+        "deaths": 3304,
+        "deathsPerOneMillion": 2,
+        "firstCase": "\nJan 10 ",
+        "position": 200,
+        "recovered": 75700,
+        "todayCases": 31,
+        "todayDeaths": 4
+      }
+    ],
+    "Colombia": [
+      {
+        "active": 682,
+        "cases": 702,
+        "casesPerOneMillion": 14,
+        "critical": 29,
+        "deaths": 10,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 05 ",
+        "position": 52,
+        "recovered": 10,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Congo": [
+      {
+        "active": 19,
+        "cases": 19,
+        "casesPerOneMillion": 3,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 14 ",
+        "position": 141,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Costa Rica": [
+      {
+        "active": 309,
+        "cases": 314,
+        "casesPerOneMillion": 62,
+        "critical": 6,
+        "deaths": 2,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 04 ",
+        "position": 72,
+        "recovered": 3,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Croatia": [
+      {
+        "active": 654,
+        "cases": 715,
+        "casesPerOneMillion": 174,
+        "critical": 26,
+        "deaths": 6,
+        "deathsPerOneMillion": 1,
+        "firstCase": "\nFeb 24 ",
+        "position": 49,
+        "recovered": 55,
+        "todayCases": 2,
+        "todayDeaths": 0
+      }
+    ],
+    "Cuba": [
+      {
+        "active": 132,
+        "cases": 139,
+        "casesPerOneMillion": 12,
+        "critical": 2,
+        "deaths": 3,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 10 ",
+        "position": 96,
+        "recovered": 4,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Cura\u00e7ao": [
+      {
+        "active": 5,
+        "cases": 8,
+        "casesPerOneMillion": 49,
+        "critical": 0,
+        "deaths": 1,
+        "deathsPerOneMillion": 6,
+        "firstCase": "\n Mar 12 ",
+        "position": 162,
+        "recovered": 2,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Cyprus": [
+      {
+        "active": 193,
+        "cases": 214,
+        "casesPerOneMillion": 177,
+        "critical": 3,
+        "deaths": 6,
+        "deathsPerOneMillion": 5,
+        "firstCase": "\nMar 08 ",
+        "position": 84,
+        "recovered": 15,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Czechia": [
+      {
+        "active": 2838,
+        "cases": 2866,
+        "casesPerOneMillion": 268,
+        "critical": 52,
+        "deaths": 17,
+        "deathsPerOneMillion": 2,
+        "firstCase": "\nFeb 29 ",
+        "position": 20,
+        "recovered": 11,
+        "todayCases": 49,
+        "todayDeaths": 1
+      }
+    ],
+    "DRC": [
+      {
+        "active": 71,
+        "cases": 81,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 8,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 09 ",
+        "position": 115,
+        "recovered": 2,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Denmark": [
+      {
+        "active": 2477,
+        "cases": 2555,
+        "casesPerOneMillion": 441,
+        "critical": 113,
+        "deaths": 77,
+        "deathsPerOneMillion": 13,
+        "firstCase": "\nFeb 26 ",
+        "position": 23,
+        "recovered": 1,
+        "todayCases": 160,
+        "todayDeaths": 5
+      }
+    ],
+    "Diamond Princess": [
+      {
+        "active": 99,
+        "cases": 712,
+        "casesPerOneMillion": 0,
+        "critical": 15,
+        "deaths": 10,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nFeb 04 ",
+        "position": 51,
+        "recovered": 603,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Djibouti": [
+      {
+        "active": 18,
+        "cases": 18,
+        "casesPerOneMillion": 18,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 17 ",
+        "position": 143,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Dominica": [
+      {
+        "active": 11,
+        "cases": 11,
+        "casesPerOneMillion": 153,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 21 ",
+        "position": 153,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Dominican Republic": [
+      {
+        "active": 817,
+        "cases": 859,
+        "casesPerOneMillion": 79,
+        "critical": 0,
+        "deaths": 39,
+        "deathsPerOneMillion": 4,
+        "firstCase": "\nFeb 29 ",
+        "position": 43,
+        "recovered": 3,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Ecuador": [
+      {
+        "active": 1863,
+        "cases": 1924,
+        "casesPerOneMillion": 109,
+        "critical": 58,
+        "deaths": 58,
+        "deathsPerOneMillion": 3,
+        "firstCase": "\nFeb 28 ",
+        "position": 27,
+        "recovered": 3,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Egypt": [
+      {
+        "active": 437,
+        "cases": 609,
+        "casesPerOneMillion": 6,
+        "critical": 0,
+        "deaths": 40,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nFeb 13 ",
+        "position": 55,
+        "recovered": 132,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "El Salvador": [
+      {
+        "active": 30,
+        "cases": 30,
+        "casesPerOneMillion": 5,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 18 ",
+        "position": 135,
+        "recovered": 0,
+        "todayCases": 6,
+        "todayDeaths": 0
+      }
+    ],
+    "Equatorial Guinea": [
+      {
+        "active": 12,
+        "cases": 12,
+        "casesPerOneMillion": 9,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 13 ",
+        "position": 150,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Eritrea": [
+      {
+        "active": 12,
+        "cases": 12,
+        "casesPerOneMillion": 3,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 20 ",
+        "position": 151,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Estonia": [
+      {
+        "active": 692,
+        "cases": 715,
+        "casesPerOneMillion": 539,
+        "critical": 10,
+        "deaths": 3,
+        "deathsPerOneMillion": 2,
+        "firstCase": "\nFeb 26 ",
+        "position": 50,
+        "recovered": 20,
+        "todayCases": 36,
+        "todayDeaths": 0
+      }
+    ],
+    "Eswatini": [
+      {
+        "active": 9,
+        "cases": 9,
+        "casesPerOneMillion": 8,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 13 ",
+        "position": 161,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Ethiopia": [
+      {
+        "active": 22,
+        "cases": 23,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 12 ",
+        "position": 138,
+        "recovered": 1,
+        "todayCases": 2,
+        "todayDeaths": 0
+      }
+    ],
+    "Faeroe Islands": [
+      {
+        "active": 98,
+        "cases": 168,
+        "casesPerOneMillion": 3438,
+        "critical": 1,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 03 ",
+        "position": 89,
+        "recovered": 70,
+        "todayCases": 9,
+        "todayDeaths": 0
+      }
+    ],
+    "Fiji": [
+      {
+        "active": 5,
+        "cases": 5,
+        "casesPerOneMillion": 6,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 18 ",
+        "position": 180,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Finland": [
+      {
+        "active": 1329,
+        "cases": 1352,
+        "casesPerOneMillion": 244,
+        "critical": 32,
+        "deaths": 13,
+        "deathsPerOneMillion": 2,
+        "firstCase": "\nJan 28 ",
+        "position": 35,
+        "recovered": 10,
+        "todayCases": 112,
+        "todayDeaths": 2
+      }
+    ],
+    "France": [
+      {
+        "active": 30366,
+        "cases": 40174,
+        "casesPerOneMillion": 615,
+        "critical": 4632,
+        "deaths": 2606,
+        "deathsPerOneMillion": 40,
+        "firstCase": "\nJan 23 ",
+        "position": 5,
+        "recovered": 7202,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "French Guiana": [
+      {
+        "active": 37,
+        "cases": 43,
+        "casesPerOneMillion": 144,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 06 ",
+        "position": 125,
+        "recovered": 6,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "French Polynesia": [
+      {
+        "active": 35,
+        "cases": 35,
+        "casesPerOneMillion": 125,
+        "critical": 2,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 10 ",
+        "position": 129,
+        "recovered": 0,
+        "todayCases": 5,
+        "todayDeaths": 0
+      }
+    ],
+    "Gabon": [
+      {
+        "active": 6,
+        "cases": 7,
+        "casesPerOneMillion": 3,
+        "critical": 0,
+        "deaths": 1,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 12 ",
+        "position": 170,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Gambia": [
+      {
+        "active": 3,
+        "cases": 4,
+        "casesPerOneMillion": 2,
+        "critical": 0,
+        "deaths": 1,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 16 ",
+        "position": 184,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Georgia": [
+      {
+        "active": 80,
+        "cases": 98,
+        "casesPerOneMillion": 25,
+        "critical": 1,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nFeb 25 ",
+        "position": 108,
+        "recovered": 18,
+        "todayCases": 7,
+        "todayDeaths": 0
+      }
+    ],
+    "Germany": [
+      {
+        "active": 52683,
+        "cases": 62435,
+        "casesPerOneMillion": 745,
+        "critical": 1979,
+        "deaths": 541,
+        "deathsPerOneMillion": 6,
+        "firstCase": "\nJan 26 ",
+        "position": 3,
+        "recovered": 9211,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Ghana": [
+      {
+        "active": 145,
+        "cases": 152,
+        "casesPerOneMillion": 5,
+        "critical": 1,
+        "deaths": 5,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 11 ",
+        "position": 93,
+        "recovered": 2,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Gibraltar": [
+      {
+        "active": 51,
+        "cases": 65,
+        "casesPerOneMillion": 1929,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 02 ",
+        "position": 118,
+        "recovered": 14,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Greece": [
+      {
+        "active": 1065,
+        "cases": 1156,
+        "casesPerOneMillion": 111,
+        "critical": 66,
+        "deaths": 39,
+        "deathsPerOneMillion": 4,
+        "firstCase": "\nFeb 25 ",
+        "position": 38,
+        "recovered": 52,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Greenland": [
+      {
+        "active": 8,
+        "cases": 10,
+        "casesPerOneMillion": 176,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 15 ",
+        "position": 156,
+        "recovered": 2,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Grenada": [
+      {
+        "active": 9,
+        "cases": 9,
+        "casesPerOneMillion": 80,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 21 ",
+        "position": 159,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Guadeloupe": [
+      {
+        "active": 85,
+        "cases": 106,
+        "casesPerOneMillion": 265,
+        "critical": 10,
+        "deaths": 4,
+        "deathsPerOneMillion": 10,
+        "firstCase": "\nMar 12 ",
+        "position": 107,
+        "recovered": 17,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Guatemala": [
+      {
+        "active": 23,
+        "cases": 34,
+        "casesPerOneMillion": 2,
+        "critical": 1,
+        "deaths": 1,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 12 ",
+        "position": 130,
+        "recovered": 10,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Guinea": [
+      {
+        "active": 16,
+        "cases": 16,
+        "casesPerOneMillion": 1,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 12 ",
+        "position": 145,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Guinea-Bissau": [
+      {
+        "active": 2,
+        "cases": 2,
+        "casesPerOneMillion": 1,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 24 ",
+        "position": 196,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Guyana": [
+      {
+        "active": 7,
+        "cases": 8,
+        "casesPerOneMillion": 10,
+        "critical": 0,
+        "deaths": 1,
+        "deathsPerOneMillion": 1,
+        "firstCase": "\nMar 11 ",
+        "position": 163,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Haiti": [
+      {
+        "active": 14,
+        "cases": 15,
+        "casesPerOneMillion": 1,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 19 ",
+        "position": 146,
+        "recovered": 1,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Honduras": [
+      {
+        "active": 133,
+        "cases": 139,
+        "casesPerOneMillion": 14,
+        "critical": 4,
+        "deaths": 3,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 10 ",
+        "position": 97,
+        "recovered": 3,
+        "todayCases": 29,
+        "todayDeaths": 0
+      }
+    ],
+    "Hong Kong": [
+      {
+        "active": 520,
+        "cases": 642,
+        "casesPerOneMillion": 86,
+        "critical": 5,
+        "deaths": 4,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nJan 22 ",
+        "position": 53,
+        "recovered": 118,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Hungary": [
+      {
+        "active": 398,
+        "cases": 447,
+        "casesPerOneMillion": 46,
+        "critical": 6,
+        "deaths": 15,
+        "deathsPerOneMillion": 2,
+        "firstCase": "\nMar 03 ",
+        "position": 65,
+        "recovered": 34,
+        "todayCases": 39,
+        "todayDeaths": 2
+      }
+    ],
+    "Iceland": [
+      {
+        "active": 883,
+        "cases": 1020,
+        "casesPerOneMillion": 2989,
+        "critical": 25,
+        "deaths": 2,
+        "deathsPerOneMillion": 6,
+        "firstCase": "\nFeb 27 ",
+        "position": 40,
+        "recovered": 135,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "India": [
+      {
+        "active": 942,
+        "cases": 1071,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 29,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nJan 29 ",
+        "position": 39,
+        "recovered": 100,
+        "todayCases": 47,
+        "todayDeaths": 2
+      }
+    ],
+    "Indonesia": [
+      {
+        "active": 1217,
+        "cases": 1414,
+        "casesPerOneMillion": 5,
+        "critical": 0,
+        "deaths": 122,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 01 ",
+        "position": 34,
+        "recovered": 75,
+        "todayCases": 129,
+        "todayDeaths": 8
+      }
+    ],
+    "Iran": [
+      {
+        "active": 24827,
+        "cases": 41495,
+        "casesPerOneMillion": 494,
+        "critical": 3511,
+        "deaths": 2757,
+        "deathsPerOneMillion": 33,
+        "firstCase": "\nFeb 18 ",
+        "position": 4,
+        "recovered": 13911,
+        "todayCases": 3186,
+        "todayDeaths": 117
+      }
+    ],
+    "Iraq": [
+      {
+        "active": 362,
+        "cases": 547,
+        "casesPerOneMillion": 14,
+        "critical": 0,
+        "deaths": 42,
+        "deathsPerOneMillion": 1,
+        "firstCase": "\nFeb 21 ",
+        "position": 58,
+        "recovered": 143,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Ireland": [
+      {
+        "active": 2564,
+        "cases": 2615,
+        "casesPerOneMillion": 530,
+        "critical": 59,
+        "deaths": 46,
+        "deathsPerOneMillion": 9,
+        "firstCase": "\nFeb 28 ",
+        "position": 22,
+        "recovered": 5,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Isle of Man": [
+      {
+        "active": 46,
+        "cases": 46,
+        "casesPerOneMillion": 541,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 18 ",
+        "position": 124,
+        "recovered": 0,
+        "todayCases": 4,
+        "todayDeaths": 0
+      }
+    ],
+    "Israel": [
+      {
+        "active": 4197,
+        "cases": 4347,
+        "casesPerOneMillion": 502,
+        "critical": 80,
+        "deaths": 16,
+        "deathsPerOneMillion": 2,
+        "firstCase": "\nFeb 20 ",
+        "position": 16,
+        "recovered": 134,
+        "todayCases": 100,
+        "todayDeaths": 1
+      }
+    ],
+    "Italy": [
+      {
+        "active": 73880,
+        "cases": 97689,
+        "casesPerOneMillion": 1616,
+        "critical": 3906,
+        "deaths": 10779,
+        "deathsPerOneMillion": 178,
+        "firstCase": "\nJan 29 ",
+        "position": 1,
+        "recovered": 13030,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Ivory Coast": [
+      {
+        "active": 160,
+        "cases": 165,
+        "casesPerOneMillion": 6,
+        "critical": 0,
+        "deaths": 1,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 10 ",
+        "position": 90,
+        "recovered": 4,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Jamaica": [
+      {
+        "active": 29,
+        "cases": 32,
+        "casesPerOneMillion": 11,
+        "critical": 0,
+        "deaths": 1,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 09 ",
+        "position": 133,
+        "recovered": 2,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Japan": [
+      {
+        "active": 1388,
+        "cases": 1866,
+        "casesPerOneMillion": 15,
+        "critical": 56,
+        "deaths": 54,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nJan 14 ",
+        "position": 29,
+        "recovered": 424,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Jordan": [
+      {
+        "active": 237,
+        "cases": 259,
+        "casesPerOneMillion": 25,
+        "critical": 3,
+        "deaths": 4,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 01 ",
+        "position": 80,
+        "recovered": 18,
+        "todayCases": 0,
+        "todayDeaths": 1
+      }
+    ],
+    "Kazakhstan": [
+      {
+        "active": 273,
+        "cases": 294,
+        "casesPerOneMillion": 16,
+        "critical": 0,
+        "deaths": 1,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 12 ",
+        "position": 76,
+        "recovered": 20,
+        "todayCases": 10,
+        "todayDeaths": 0
+      }
+    ],
+    "Kenya": [
+      {
+        "active": 40,
+        "cases": 42,
+        "casesPerOneMillion": 0,
+        "critical": 2,
+        "deaths": 1,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 12 ",
+        "position": 126,
+        "recovered": 1,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Kuwait": [
+      {
+        "active": 194,
+        "cases": 266,
+        "casesPerOneMillion": 62,
+        "critical": 13,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nFeb 23 ",
+        "position": 77,
+        "recovered": 72,
+        "todayCases": 11,
+        "todayDeaths": 0
+      }
+    ],
+    "Kyrgyzstan": [
+      {
+        "active": 94,
+        "cases": 94,
+        "casesPerOneMillion": 14,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 17 ",
+        "position": 111,
+        "recovered": 0,
+        "todayCases": 10,
+        "todayDeaths": 0
+      }
+    ],
+    "Laos": [
+      {
+        "active": 8,
+        "cases": 8,
+        "casesPerOneMillion": 1,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 23 ",
+        "position": 164,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Latvia": [
+      {
+        "active": 375,
+        "cases": 376,
+        "casesPerOneMillion": 199,
+        "critical": 3,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 01 ",
+        "position": 67,
+        "recovered": 1,
+        "todayCases": 29,
+        "todayDeaths": 0
+      }
+    ],
+    "Lebanon": [
+      {
+        "active": 403,
+        "cases": 446,
+        "casesPerOneMillion": 65,
+        "critical": 3,
+        "deaths": 11,
+        "deathsPerOneMillion": 2,
+        "firstCase": "\nFeb 20 ",
+        "position": 66,
+        "recovered": 32,
+        "todayCases": 8,
+        "todayDeaths": 1
+      }
+    ],
+    "Liberia": [
+      {
+        "active": 3,
+        "cases": 3,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 15 ",
+        "position": 190,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Libya": [
+      {
+        "active": 8,
+        "cases": 8,
+        "casesPerOneMillion": 1,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 23 ",
+        "position": 165,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Liechtenstein": [
+      {
+        "active": 62,
+        "cases": 62,
+        "casesPerOneMillion": 1626,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 02 ",
+        "position": 120,
+        "recovered": 0,
+        "todayCases": 6,
+        "todayDeaths": 0
+      }
+    ],
+    "Lithuania": [
+      {
+        "active": 476,
+        "cases": 484,
+        "casesPerOneMillion": 178,
+        "critical": 5,
+        "deaths": 7,
+        "deathsPerOneMillion": 3,
+        "firstCase": "\nFeb 27 ",
+        "position": 62,
+        "recovered": 1,
+        "todayCases": 24,
+        "todayDeaths": 0
+      }
+    ],
+    "Luxembourg": [
+      {
+        "active": 1889,
+        "cases": 1950,
+        "casesPerOneMillion": 3115,
+        "critical": 25,
+        "deaths": 21,
+        "deathsPerOneMillion": 34,
+        "firstCase": "\nFeb 28 ",
+        "position": 26,
+        "recovered": 40,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "MS Zaandam": [
+      {
+        "active": 2,
+        "cases": 2,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 26 ",
+        "position": 192,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Macao": [
+      {
+        "active": 28,
+        "cases": 38,
+        "casesPerOneMillion": 59,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nJan 21 ",
+        "position": 128,
+        "recovered": 10,
+        "todayCases": 1,
+        "todayDeaths": 0
+      }
+    ],
+    "Madagascar": [
+      {
+        "active": 39,
+        "cases": 39,
+        "casesPerOneMillion": 1,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 19 ",
+        "position": 127,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Malaysia": [
+      {
+        "active": 2110,
+        "cases": 2626,
+        "casesPerOneMillion": 81,
+        "critical": 94,
+        "deaths": 37,
+        "deathsPerOneMillion": 1,
+        "firstCase": "\nJan 24 ",
+        "position": 21,
+        "recovered": 479,
+        "todayCases": 156,
+        "todayDeaths": 2
+      }
+    ],
+    "Maldives": [
+      {
+        "active": 4,
+        "cases": 17,
+        "casesPerOneMillion": 31,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 06 ",
+        "position": 144,
+        "recovered": 13,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Mali": [
+      {
+        "active": 23,
+        "cases": 25,
+        "casesPerOneMillion": 1,
+        "critical": 0,
+        "deaths": 2,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 24 ",
+        "position": 137,
+        "recovered": 0,
+        "todayCases": 7,
+        "todayDeaths": 1
+      }
+    ],
+    "Malta": [
+      {
+        "active": 154,
+        "cases": 156,
+        "casesPerOneMillion": 353,
+        "critical": 4,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 06 ",
+        "position": 92,
+        "recovered": 2,
+        "todayCases": 5,
+        "todayDeaths": 0
+      }
+    ],
+    "Martinique": [
+      {
+        "active": 92,
+        "cases": 93,
+        "casesPerOneMillion": 248,
+        "critical": 12,
+        "deaths": 1,
+        "deathsPerOneMillion": 3,
+        "firstCase": "\nMar 04 ",
+        "position": 112,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Mauritania": [
+      {
+        "active": 3,
+        "cases": 5,
+        "casesPerOneMillion": 1,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 12 ",
+        "position": 181,
+        "recovered": 2,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Mauritius": [
+      {
+        "active": 107,
+        "cases": 110,
+        "casesPerOneMillion": 86,
+        "critical": 1,
+        "deaths": 3,
+        "deathsPerOneMillion": 2,
+        "firstCase": "\nMar 17 ",
+        "position": 104,
+        "recovered": 0,
+        "todayCases": 3,
+        "todayDeaths": 0
+      }
+    ],
+    "Mayotte": [
+      {
+        "active": 72,
+        "cases": 82,
+        "casesPerOneMillion": 301,
+        "critical": 3,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 13 ",
+        "position": 114,
+        "recovered": 10,
+        "todayCases": 19,
+        "todayDeaths": 0
+      }
+    ],
+    "Mexico": [
+      {
+        "active": 938,
+        "cases": 993,
+        "casesPerOneMillion": 8,
+        "critical": 1,
+        "deaths": 20,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nFeb 27 ",
+        "position": 41,
+        "recovered": 35,
+        "todayCases": 145,
+        "todayDeaths": 4
+      }
+    ],
+    "Moldova": [
+      {
+        "active": 248,
+        "cases": 263,
+        "casesPerOneMillion": 65,
+        "critical": 33,
+        "deaths": 2,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 06 ",
+        "position": 78,
+        "recovered": 13,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Monaco": [
+      {
+        "active": 44,
+        "cases": 46,
+        "casesPerOneMillion": 1172,
+        "critical": 0,
+        "deaths": 1,
+        "deathsPerOneMillion": 25,
+        "firstCase": "\nFeb 27 ",
+        "position": 123,
+        "recovered": 1,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Mongolia": [
+      {
+        "active": 10,
+        "cases": 12,
+        "casesPerOneMillion": 4,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 09 ",
+        "position": 152,
+        "recovered": 2,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Montenegro": [
+      {
+        "active": 90,
+        "cases": 91,
+        "casesPerOneMillion": 145,
+        "critical": 1,
+        "deaths": 1,
+        "deathsPerOneMillion": 2,
+        "firstCase": "\nMar 16 ",
+        "position": 113,
+        "recovered": 0,
+        "todayCases": 6,
+        "todayDeaths": 0
+      }
+    ],
+    "Montserrat": [
+      {
+        "active": 5,
+        "cases": 5,
+        "casesPerOneMillion": 1002,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 17 ",
+        "position": 182,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Morocco": [
+      {
+        "active": 476,
+        "cases": 516,
+        "casesPerOneMillion": 14,
+        "critical": 1,
+        "deaths": 27,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 01 ",
+        "position": 59,
+        "recovered": 13,
+        "todayCases": 37,
+        "todayDeaths": 1
+      }
+    ],
+    "Mozambique": [
+      {
+        "active": 8,
+        "cases": 8,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 21 ",
+        "position": 166,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Myanmar": [
+      {
+        "active": 10,
+        "cases": 10,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 22 ",
+        "position": 157,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Namibia": [
+      {
+        "active": 9,
+        "cases": 11,
+        "casesPerOneMillion": 4,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 13 ",
+        "position": 154,
+        "recovered": 2,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Nepal": [
+      {
+        "active": 4,
+        "cases": 5,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nJan 23 ",
+        "position": 179,
+        "recovered": 1,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Netherlands": [
+      {
+        "active": 9845,
+        "cases": 10866,
+        "casesPerOneMillion": 634,
+        "critical": 972,
+        "deaths": 771,
+        "deathsPerOneMillion": 45,
+        "firstCase": "\nFeb 26 ",
+        "position": 9,
+        "recovered": 250,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "New Caledonia": [
+      {
+        "active": 15,
+        "cases": 15,
+        "casesPerOneMillion": 53,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 17 ",
+        "position": 147,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "New Zealand": [
+      {
+        "active": 525,
+        "cases": 589,
+        "casesPerOneMillion": 122,
+        "critical": 2,
+        "deaths": 1,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nFeb 27 ",
+        "position": 56,
+        "recovered": 63,
+        "todayCases": 75,
+        "todayDeaths": 0
+      }
+    ],
+    "Nicaragua": [
+      {
+        "active": 3,
+        "cases": 4,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 1,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 18 ",
+        "position": 185,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Niger": [
+      {
+        "active": 19,
+        "cases": 22,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 3,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 18 ",
+        "position": 139,
+        "recovered": 0,
+        "todayCases": 4,
+        "todayDeaths": 2
+      }
+    ],
+    "Nigeria": [
+      {
+        "active": 107,
+        "cases": 111,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 1,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nFeb 27 ",
+        "position": 103,
+        "recovered": 3,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "North Macedonia": [
+      {
+        "active": 250,
+        "cases": 259,
+        "casesPerOneMillion": 124,
+        "critical": 1,
+        "deaths": 6,
+        "deathsPerOneMillion": 3,
+        "firstCase": "\nFeb 25 ",
+        "position": 79,
+        "recovered": 3,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Norway": [
+      {
+        "active": 4350,
+        "cases": 4393,
+        "casesPerOneMillion": 810,
+        "critical": 97,
+        "deaths": 31,
+        "deathsPerOneMillion": 6,
+        "firstCase": "\nFeb 25 ",
+        "position": 15,
+        "recovered": 12,
+        "todayCases": 109,
+        "todayDeaths": 5
+      }
+    ],
+    "Oman": [
+      {
+        "active": 150,
+        "cases": 179,
+        "casesPerOneMillion": 35,
+        "critical": 3,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nFeb 23 ",
+        "position": 88,
+        "recovered": 29,
+        "todayCases": 12,
+        "todayDeaths": 0
+      }
+    ],
+    "Pakistan": [
+      {
+        "active": 1576,
+        "cases": 1625,
+        "casesPerOneMillion": 7,
+        "critical": 11,
+        "deaths": 20,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nFeb 25 ",
+        "position": 31,
+        "recovered": 29,
+        "todayCases": 28,
+        "todayDeaths": 6
+      }
+    ],
+    "Palestine": [
+      {
+        "active": 96,
+        "cases": 115,
+        "casesPerOneMillion": 23,
+        "critical": 0,
+        "deaths": 1,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 04 ",
+        "position": 102,
+        "recovered": 18,
+        "todayCases": 6,
+        "todayDeaths": 0
+      }
+    ],
+    "Panama": [
+      {
+        "active": 961,
+        "cases": 989,
+        "casesPerOneMillion": 229,
+        "critical": 36,
+        "deaths": 24,
+        "deathsPerOneMillion": 6,
+        "firstCase": "\nMar 09 ",
+        "position": 42,
+        "recovered": 4,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Papua New Guinea": [
+      {
+        "active": 1,
+        "cases": 1,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 19 ",
+        "position": 197,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Paraguay": [
+      {
+        "active": 60,
+        "cases": 64,
+        "casesPerOneMillion": 9,
+        "critical": 3,
+        "deaths": 3,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 06 ",
+        "position": 119,
+        "recovered": 1,
+        "todayCases": 5,
+        "todayDeaths": 0
+      }
+    ],
+    "Peru": [
+      {
+        "active": 818,
+        "cases": 852,
+        "casesPerOneMillion": 26,
+        "critical": 40,
+        "deaths": 18,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 05 ",
+        "position": 44,
+        "recovered": 16,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Philippines": [
+      {
+        "active": 1426,
+        "cases": 1546,
+        "casesPerOneMillion": 14,
+        "critical": 1,
+        "deaths": 78,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nJan 29 ",
+        "position": 32,
+        "recovered": 42,
+        "todayCases": 128,
+        "todayDeaths": 7
+      }
+    ],
+    "Poland": [
+      {
+        "active": 1872,
+        "cases": 1905,
+        "casesPerOneMillion": 50,
+        "critical": 3,
+        "deaths": 26,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 03 ",
+        "position": 28,
+        "recovered": 7,
+        "todayCases": 43,
+        "todayDeaths": 4
+      }
+    ],
+    "Portugal": [
+      {
+        "active": 6225,
+        "cases": 6408,
+        "casesPerOneMillion": 628,
+        "critical": 164,
+        "deaths": 140,
+        "deathsPerOneMillion": 14,
+        "firstCase": "\nMar 01 ",
+        "position": 13,
+        "recovered": 43,
+        "todayCases": 446,
+        "todayDeaths": 21
+      }
+    ],
+    "Qatar": [
+      {
+        "active": 585,
+        "cases": 634,
+        "casesPerOneMillion": 220,
+        "critical": 6,
+        "deaths": 1,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nFeb 28 ",
+        "position": 54,
+        "recovered": 48,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Romania": [
+      {
+        "active": 1700,
+        "cases": 1952,
+        "casesPerOneMillion": 101,
+        "critical": 31,
+        "deaths": 46,
+        "deathsPerOneMillion": 2,
+        "firstCase": "\nFeb 25 ",
+        "position": 25,
+        "recovered": 206,
+        "todayCases": 137,
+        "todayDeaths": 3
+      }
+    ],
+    "Russia": [
+      {
+        "active": 1761,
+        "cases": 1836,
+        "casesPerOneMillion": 13,
+        "critical": 8,
+        "deaths": 9,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nJan 30 ",
+        "position": 30,
+        "recovered": 66,
+        "todayCases": 302,
+        "todayDeaths": 1
+      }
+    ],
+    "Rwanda": [
+      {
+        "active": 70,
+        "cases": 70,
+        "casesPerOneMillion": 5,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 13 ",
+        "position": 117,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "R\u00e9union": [
+      {
+        "active": 182,
+        "cases": 183,
+        "casesPerOneMillion": 204,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 10 ",
+        "position": 87,
+        "recovered": 1,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "S. Korea": [
+      {
+        "active": 4275,
+        "cases": 9661,
+        "casesPerOneMillion": 188,
+        "critical": 59,
+        "deaths": 158,
+        "deathsPerOneMillion": 3,
+        "firstCase": "\nJan 19 ",
+        "position": 10,
+        "recovered": 5228,
+        "todayCases": 78,
+        "todayDeaths": 6
+      }
+    ],
+    "Saint Kitts and Nevis": [
+      {
+        "active": 7,
+        "cases": 7,
+        "casesPerOneMillion": 132,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 24 ",
+        "position": 173,
+        "recovered": 0,
+        "todayCases": 5,
+        "todayDeaths": 0
+      }
+    ],
+    "Saint Lucia": [
+      {
+        "active": 8,
+        "cases": 9,
+        "casesPerOneMillion": 49,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 12 ",
+        "position": 160,
+        "recovered": 1,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Saint Martin": [
+      {
+        "active": 11,
+        "cases": 11,
+        "casesPerOneMillion": 284,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nFeb 29 ",
+        "position": 155,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "San Marino": [
+      {
+        "active": 196,
+        "cases": 224,
+        "casesPerOneMillion": 6602,
+        "critical": 16,
+        "deaths": 22,
+        "deathsPerOneMillion": 648,
+        "firstCase": "\nFeb 26 ",
+        "position": 81,
+        "recovered": 6,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Saudi Arabia": [
+      {
+        "active": 1225,
+        "cases": 1299,
+        "casesPerOneMillion": 37,
+        "critical": 12,
+        "deaths": 8,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 01 ",
+        "position": 36,
+        "recovered": 66,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Senegal": [
+      {
+        "active": 135,
+        "cases": 162,
+        "casesPerOneMillion": 10,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 01  ",
+        "position": 91,
+        "recovered": 27,
+        "todayCases": 20,
+        "todayDeaths": 0
+      }
+    ],
+    "Serbia": [
+      {
+        "active": 685,
+        "cases": 741,
+        "casesPerOneMillion": 85,
+        "critical": 25,
+        "deaths": 14,
+        "deathsPerOneMillion": 2,
+        "firstCase": "\nMar 05 ",
+        "position": 48,
+        "recovered": 42,
+        "todayCases": 0,
+        "todayDeaths": 1
+      }
+    ],
+    "Seychelles": [
+      {
+        "active": 8,
+        "cases": 8,
+        "casesPerOneMillion": 81,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 13 ",
+        "position": 167,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Singapore": [
+      {
+        "active": 629,
+        "cases": 844,
+        "casesPerOneMillion": 144,
+        "critical": 19,
+        "deaths": 3,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nJan 22 ",
+        "position": 45,
+        "recovered": 212,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Sint Maarten": [
+      {
+        "active": 6,
+        "cases": 6,
+        "casesPerOneMillion": 140,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 17 ",
+        "position": 178,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Slovakia": [
+      {
+        "active": 329,
+        "cases": 336,
+        "casesPerOneMillion": 62,
+        "critical": 1,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 05 ",
+        "position": 70,
+        "recovered": 7,
+        "todayCases": 22,
+        "todayDeaths": 0
+      }
+    ],
+    "Slovenia": [
+      {
+        "active": 735,
+        "cases": 756,
+        "casesPerOneMillion": 364,
+        "critical": 28,
+        "deaths": 11,
+        "deathsPerOneMillion": 5,
+        "firstCase": "\nMar 03 ",
+        "position": 47,
+        "recovered": 10,
+        "todayCases": 26,
+        "todayDeaths": 0
+      }
+    ],
+    "Somalia": [
+      {
+        "active": 3,
+        "cases": 3,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 15 ",
+        "position": 191,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "South Africa": [
+      {
+        "active": 1247,
+        "cases": 1280,
+        "casesPerOneMillion": 22,
+        "critical": 7,
+        "deaths": 2,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 04 ",
+        "position": 37,
+        "recovered": 31,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Spain": [
+      {
+        "active": 61075,
+        "cases": 85195,
+        "casesPerOneMillion": 1822,
+        "critical": 5231,
+        "deaths": 7340,
+        "deathsPerOneMillion": 157,
+        "firstCase": "\nJan 30 ",
+        "position": 2,
+        "recovered": 16780,
+        "todayCases": 5085,
+        "todayDeaths": 537
+      }
+    ],
+    "Sri Lanka": [
+      {
+        "active": 106,
+        "cases": 122,
+        "casesPerOneMillion": 6,
+        "critical": 5,
+        "deaths": 1,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nJan 26 ",
+        "position": 99,
+        "recovered": 15,
+        "todayCases": 5,
+        "todayDeaths": 0
+      }
+    ],
+    "St. Barth": [
+      {
+        "active": 5,
+        "cases": 5,
+        "casesPerOneMillion": 506,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nFeb 29 ",
+        "position": 183,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "St. Vincent Grenadines": [
+      {
+        "active": 0,
+        "cases": 1,
+        "casesPerOneMillion": 9,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 10 ",
+        "position": 198,
+        "recovered": 1,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Sudan": [
+      {
+        "active": 5,
+        "cases": 6,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 1,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 12 ",
+        "position": 175,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Suriname": [
+      {
+        "active": 8,
+        "cases": 8,
+        "casesPerOneMillion": 14,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 12 ",
+        "position": 168,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Sweden": [
+      {
+        "active": 3574,
+        "cases": 3700,
+        "casesPerOneMillion": 366,
+        "critical": 281,
+        "deaths": 110,
+        "deathsPerOneMillion": 11,
+        "firstCase": "\nJan 30 ",
+        "position": 19,
+        "recovered": 16,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Switzerland": [
+      {
+        "active": 12934,
+        "cases": 15069,
+        "casesPerOneMillion": 1741,
+        "critical": 301,
+        "deaths": 312,
+        "deathsPerOneMillion": 36,
+        "firstCase": "\nFeb 24 ",
+        "position": 7,
+        "recovered": 1823,
+        "todayCases": 240,
+        "todayDeaths": 12
+      }
+    ],
+    "Syria": [
+      {
+        "active": 8,
+        "cases": 9,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 1,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 21 ",
+        "position": 158,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Taiwan": [
+      {
+        "active": 262,
+        "cases": 306,
+        "casesPerOneMillion": 13,
+        "critical": 0,
+        "deaths": 5,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nJan 20 ",
+        "position": 74,
+        "recovered": 39,
+        "todayCases": 8,
+        "todayDeaths": 2
+      }
+    ],
+    "Tanzania": [
+      {
+        "active": 18,
+        "cases": 19,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 15 ",
+        "position": 142,
+        "recovered": 1,
+        "todayCases": 5,
+        "todayDeaths": 0
+      }
+    ],
+    "Thailand": [
+      {
+        "active": 1286,
+        "cases": 1524,
+        "casesPerOneMillion": 22,
+        "critical": 11,
+        "deaths": 9,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nJan 12 ",
+        "position": 33,
+        "recovered": 229,
+        "todayCases": 136,
+        "todayDeaths": 2
+      }
+    ],
+    "Timor-Leste": [
+      {
+        "active": 1,
+        "cases": 1,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 20 ",
+        "position": 199,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Togo": [
+      {
+        "active": 28,
+        "cases": 30,
+        "casesPerOneMillion": 4,
+        "critical": 0,
+        "deaths": 1,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 05 ",
+        "position": 134,
+        "recovered": 1,
+        "todayCases": 5,
+        "todayDeaths": 0
+      }
+    ],
+    "Trinidad and Tobago": [
+      {
+        "active": 74,
+        "cases": 78,
+        "casesPerOneMillion": 56,
+        "critical": 0,
+        "deaths": 3,
+        "deathsPerOneMillion": 2,
+        "firstCase": "\nMar 11 ",
+        "position": 116,
+        "recovered": 1,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Tunisia": [
+      {
+        "active": 302,
+        "cases": 312,
+        "casesPerOneMillion": 26,
+        "critical": 10,
+        "deaths": 8,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 01 ",
+        "position": 73,
+        "recovered": 2,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Turkey": [
+      {
+        "active": 8981,
+        "cases": 9217,
+        "casesPerOneMillion": 109,
+        "critical": 568,
+        "deaths": 131,
+        "deathsPerOneMillion": 2,
+        "firstCase": "\nMar 09 ",
+        "position": 11,
+        "recovered": 105,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Turks and Caicos": [
+      {
+        "active": 4,
+        "cases": 4,
+        "casesPerOneMillion": 103,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 22 ",
+        "position": 187,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "UAE": [
+      {
+        "active": 509,
+        "cases": 570,
+        "casesPerOneMillion": 58,
+        "critical": 2,
+        "deaths": 3,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nJan 28 ",
+        "position": 57,
+        "recovered": 58,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "UK": [
+      {
+        "active": 18159,
+        "cases": 19522,
+        "casesPerOneMillion": 288,
+        "critical": 163,
+        "deaths": 1228,
+        "deathsPerOneMillion": 18,
+        "firstCase": "\nJan 30 ",
+        "position": 6,
+        "recovered": 135,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "USA": [
+      {
+        "active": 135741,
+        "cases": 142793,
+        "casesPerOneMillion": 431,
+        "critical": 2970,
+        "deaths": 2490,
+        "deathsPerOneMillion": 8,
+        "firstCase": "\nJan 20 ",
+        "position": 0,
+        "recovered": 4562,
+        "todayCases": 333,
+        "todayDeaths": 6
+      }
+    ],
+    "Uganda": [
+      {
+        "active": 33,
+        "cases": 33,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 20 ",
+        "position": 132,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Ukraine": [
+      {
+        "active": 463,
+        "cases": 480,
+        "casesPerOneMillion": 11,
+        "critical": 0,
+        "deaths": 11,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 02 ",
+        "position": 64,
+        "recovered": 6,
+        "todayCases": 5,
+        "todayDeaths": 1
+      }
+    ],
+    "Uruguay": [
+      {
+        "active": 303,
+        "cases": 304,
+        "casesPerOneMillion": 88,
+        "critical": 9,
+        "deaths": 1,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 12 ",
+        "position": 75,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Uzbekistan": [
+      {
+        "active": 140,
+        "cases": 149,
+        "casesPerOneMillion": 4,
+        "critical": 8,
+        "deaths": 2,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 14 ",
+        "position": 94,
+        "recovered": 7,
+        "todayCases": 5,
+        "todayDeaths": 0
+      }
+    ],
+    "Vatican City": [
+      {
+        "active": 6,
+        "cases": 6,
+        "casesPerOneMillion": 7491,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 05 ",
+        "position": 177,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Venezuela": [
+      {
+        "active": 77,
+        "cases": 119,
+        "casesPerOneMillion": 4,
+        "critical": 6,
+        "deaths": 3,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 12 ",
+        "position": 101,
+        "recovered": 39,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Vietnam": [
+      {
+        "active": 151,
+        "cases": 203,
+        "casesPerOneMillion": 2,
+        "critical": 3,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nJan 22 ",
+        "position": 86,
+        "recovered": 52,
+        "todayCases": 9,
+        "todayDeaths": 0
+      }
+    ],
+    "Zambia": [
+      {
+        "active": 29,
+        "cases": 29,
+        "casesPerOneMillion": 2,
+        "critical": 0,
+        "deaths": 0,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 17 ",
+        "position": 136,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ],
+    "Zimbabwe": [
+      {
+        "active": 6,
+        "cases": 7,
+        "casesPerOneMillion": 0,
+        "critical": 0,
+        "deaths": 1,
+        "deathsPerOneMillion": 0,
+        "firstCase": "\nMar 19 ",
+        "position": 171,
+        "recovered": 0,
+        "todayCases": 0,
+        "todayDeaths": 0
+      }
+    ]
+  },
+  "top-countries": {
+    "0": {
+      "active": 135741,
+      "cases": 142793,
+      "casesPerOneMillion": 431,
+      "country": "USA",
+      "critical": 2970,
+      "deaths": 2490,
+      "deathsPerOneMillion": 8,
+      "firstCase": "\nJan 20 ",
+      "recovered": 4562,
+      "todayCases": 333,
+      "todayDeaths": 6
+    },
+    "1": {
+      "active": 73880,
+      "cases": 97689,
+      "casesPerOneMillion": 1616,
+      "country": "Italy",
+      "critical": 3906,
+      "deaths": 10779,
+      "deathsPerOneMillion": 178,
+      "firstCase": "\nJan 29 ",
+      "recovered": 13030,
+      "todayCases": 0,
+      "todayDeaths": 0
+    },
+    "2": {
+      "active": 61075,
+      "cases": 85195,
+      "casesPerOneMillion": 1822,
+      "country": "Spain",
+      "critical": 5231,
+      "deaths": 7340,
+      "deathsPerOneMillion": 157,
+      "firstCase": "\nJan 30 ",
+      "recovered": 16780,
+      "todayCases": 5085,
+      "todayDeaths": 537
+    },
+    "3": {
+      "active": 52683,
+      "cases": 62435,
+      "casesPerOneMillion": 745,
+      "country": "Germany",
+      "critical": 1979,
+      "deaths": 541,
+      "deathsPerOneMillion": 6,
+      "firstCase": "\nJan 26 ",
+      "recovered": 9211,
+      "todayCases": 0,
+      "todayDeaths": 0
+    },
+    "4": {
+      "active": 24827,
+      "cases": 41495,
+      "casesPerOneMillion": 494,
+      "country": "Iran",
+      "critical": 3511,
+      "deaths": 2757,
+      "deathsPerOneMillion": 33,
+      "firstCase": "\nFeb 18 ",
+      "recovered": 13911,
+      "todayCases": 3186,
+      "todayDeaths": 117
+    }
+  }
+}
