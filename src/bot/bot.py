@@ -67,7 +67,6 @@ class Extractor:
         Extractor.country_cases_per_mill = from_country["casesPerOneMillion"]
         Extractor.country_deaths_per_mill = from_country["deathsPerOneMillion"]
 
-        Extractor.country_first_case = from_country["firstCase"].replace("\n", "")
         Extractor.country_position = from_country["position"]
 
         param = ["Cases", "Recovered", "Deaths"]
@@ -171,7 +170,6 @@ def show_by_country(bot, update):
   deaths: `{Extractor.country_deaths_per_mill}`
 ----------------------
 ***Position:*** `{Extractor.country_position}`
-***First Case:*** `{Extractor.country_first_case}`
         """)
 
     else:
