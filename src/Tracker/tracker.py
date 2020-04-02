@@ -1,9 +1,11 @@
 import requests
 import json
 
-CONFIG_FILE_PATH = "/path/config.json"
-COUNTRIES_FILE_PATH = "/path/contries.json"
-TRACK_FILE_PATH = "/path/track.json"
+CONFIG_FILE_PATH = "config.json"
+TRACK_FILE_PATH = "src/Tracker/track.json"
+COUNTRIES_SPELL_PATH = "src/Tracker/spells.txt"
+
+spells = open(COUNTRIES_SPELL_PATH, "w")
 
 with open(CONFIG_FILE_PATH) as config_file:
     config = json.load(config_file)
@@ -18,6 +20,12 @@ TRACK_COUNTRIES = TRACKER_API + "countries"
 track_countries_response = requests.get(TRACK_COUNTRIES)
 COUNTRIES = track_countries_response.json()
 
+countries_spells = ""
+for countries_position in range(len(COUNTRIES)):
+    countries_spells += f"{COUNTRIES[countries_position]['country']}\n"
+
+spells.write(countries_spells)
+spells.close()
 
 countries_json = {}
 
