@@ -4,8 +4,8 @@
 ![img](src/bot/f.png)
 
 ## TODO:
-- add some comment [ ]
-- add corona world map [ ]
-- write a installer bash script for install and setup [ ]
-- add persian to languages [ ]
-- use conversationHandler [ ]
+- add some comment []
+- add corona world map []
+- write a installer bash script for install and setup []
+- add persian to languages []
+- use conversationHandler []
