@@ -41,7 +41,6 @@ for country_num in range(len(COUNTRIES)):
             "critical": COUNTRIES[country_num]["critical"],
             "deaths": COUNTRIES[country_num]["deaths"],
             "deathsPerOneMillion": COUNTRIES[country_num]["deathsPerOneMillion"],
-            "firstCase": COUNTRIES[country_num]["firstCase"],
             "recovered": COUNTRIES[country_num]["recovered"],
             "todayCases": COUNTRIES[country_num]["todayCases"],
             "todayDeaths": COUNTRIES[country_num]["todayDeaths"]
