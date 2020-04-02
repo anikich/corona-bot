@@ -1,6 +1,6 @@
 # Track the corona virus disease(COVID19)🦠 with telegram bot
 
-## example plot
+## Example plot:
 ![img](src/bot/f.png)
 
 ## TODO:
