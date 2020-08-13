@@ -5,7 +5,11 @@ from telegram import (ParseMode, ReplyKeyboardMarkup)
 from difflib import get_close_matches
 import matplotlib.pyplot as plt
 
+from os import chdir
+
+chdir("../..")
 CONFIG_PATH = "config.json"
+
 PLOT_PATH = "src/bot/f.png"
 TRACK_PATH = "src/Tracker/track.json"
 
