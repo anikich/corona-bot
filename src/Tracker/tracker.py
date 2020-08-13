@@ -1,23 +1,30 @@
-import requests
-import json
+from requests import get as requests_get
+from json import load as json_load
+from json import dump as jsob_dump
+fron os import chdir
+
+chdir("../..")
 
 CONFIG_FILE_PATH = "config.json"
-TRACK_FILE_PATH = "src/Tracker/track.json"
-COUNTRIES_SPELL_PATH = "src/Tracker/spells.txt"
+
+chdir("src/Tracker")
+
+TRACK_FILE_PATH = "track.json"
+COUNTRIES_SPELL_PATH = "spells.txt"
 
 spells = open(COUNTRIES_SPELL_PATH, "w")
 
 with open(CONFIG_FILE_PATH) as config_file:
-    config = json.load(config_file)
+    config = json_load(config_file)
 
 TRACKER_API = config["tracker-api"]
 
 TRACK_ALL = TRACKER_API + "all"
-track_all_response = requests.get(TRACK_ALL)
+track_all_response = requests_get(TRACK_ALL)
 ALL = track_all_response.json()
 
 TRACK_COUNTRIES = TRACKER_API + "countries"
-track_countries_response = requests.get(TRACK_COUNTRIES)
+track_countries_response = requests_get(TRACK_COUNTRIES)
 COUNTRIES = track_countries_response.json()
 
 countries_spells = ""
@@ -62,4 +69,4 @@ TRACK = {
 }
 
 with open(TRACK_FILE_PATH, "w") as track_file:
-    track = json.dump(TRACK, track_file, sort_keys=True, indent=2)
+    track = json_dump(TRACK, track_file, sort_keys=True, indent=2)
