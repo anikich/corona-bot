@@ -1,6 +1,6 @@
 {
   "version": "0.1",
-  "telegram-token": "TOKEN",
+  "telegram-token": "1591912807:AAF1cXU1E2veNqa2qR4u6JqM31XJ7mzx5Yg",
   "tracker-api": "https://coronavirus-19-api.herokuapp.com/",
   "admin_chat_id": 111111111
 }
